@@ -2,22 +2,22 @@
 invert_x_description|Invert horizontal axis for analog stick controls.
 invert_y_description|Invert vertical axis for analog stick controls.
 rounds per level-ru2|rounds per level
-objecttype-FlareBomb|Flashbang
-objecttype-DataPearl|Pearl
-objecttype-JellyFish|Jellyfish
-objecttype-SlimeMold|Slime Mold
-objecttype-EggBugEgg|Eggbug Egg
-objecttype-NeedleEgg|Noodlefly Egg
-creaturetype-Slugcat|Slugcat
-creaturetype-Vulture|Vulture
-creaturetype-CicadaA|Squidcada
-creaturetype-CicadaB|Squidcada
-creaturetype-JetFish|Jetfish
-creaturetype-DropBug|Dropwig
-Communications Array|Communications Array
-Stolen Enlightenment|Stolen Enlightenment
+objecttype-FlareBomb|Gíanoke
+objecttype-DataPearl|Líem
+objecttype-JellyFish|Kícıe
+objecttype-SlimeMold|Coepotısa
+objecttype-EggBugEgg|Kúbo Be-kubochome
+objecttype-NeedleEgg|Kúbo Be-rameqgusho
+creaturetype-Slugcat|Úıbokato
+creaturetype-Vulture|Búture
+creaturetype-CicadaA|Chakakicie
+creaturetype-CicadaB|Chakakicie
+creaturetype-JetFish|Sikicie
+creaturetype-DropBug|Shuachome
+Communications Array|Mé Be-deoq
+Stolen Enlightenment|Hóegaıla Bo-zanua
 Path of the pacifist|Path of the pacifist
-The Saint-linebreaks|The Saint
+The Saint-linebreaks|Bushuha
 switch_controls_jump|B Button
 Gametype description|Gametype description
 Play each level once|Play each level once
