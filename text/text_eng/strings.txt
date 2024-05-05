@@ -1,4 +1,4 @@
-﻿0ludeo-enable-warning|Please enable the Ludeo mod in the Remix menu in order to play and create Ludeos.
+﻿0ludeo-enable-warning|If you ever see this text in game, something has gone incredibly awry.
 invert_x_description|Invert horizontal axis for analog stick controls.
 invert_y_description|Invert vertical axis for analog stick controls.
 rounds per level-ru2|rounds per level
