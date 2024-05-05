@@ -1,0 +1,12 @@
+{
+    "id": "net_ampersandia_toaqworld",
+    "name": "Toaq World",
+    "version": "0.0.1",
+    "target_game_version": "v1.9.15",
+    "authors": "Katie &",
+    "description": "A mod that adds Toaq to Rain World",
+    "requirements": [],
+    "requirements_names": [],
+    "tags": [],
+    "checksum_override_version": false
+}
