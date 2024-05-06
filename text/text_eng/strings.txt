@@ -1006,9 +1006,9 @@ There is nothing here. Not even my memories remain.|There is nothing here. Not e
 Something new you want me to look at, <PlayerName>?|Something new you want me to look at, <PlayerName>?
 It's a bit dusty, but I will do my best. Hold on...|It's a bit dusty, but I will do my best. Hold on...
 Now if you'll let me, I will try to say this again.|Now if you'll let me, I will try to say this again.
-It's a rock. Thank you, I suppose, little creature.|It's a rock. Thank you, I suppose, little creature.
-objecttype-Rock|Rock
-Drainage System|Drainage System
+It's a rock. Thank you, I suppose, little creature.|Pıo ní da. Seto... kuaq kıe ka, hói nıaı nuı.
+objecttype-Rock|Pío
+Drainage System|Doeme Be-loaıbıu
 History lessons|History lessons
 Change language|Change language
 Bind <X> button|Bind <X> button
@@ -1033,7 +1033,7 @@ Are you sure you want to disable ALL karma mechanics?|Are you sure you want to d
 Mod's thumbnail image must be less than 1 MB in size.|Mod's thumbnail image must be less than 1 MB in size.
 Your account is locked or has a community or VAC ban.|Your account is locked or has a community or VAC ban.
 The workshop service is unavailable. Try again later.|The workshop service is unavailable. Try again later.
-Yet another gift? You're quite curious, <PlayerName>!|Yet another gift? You're quite curious, <PlayerName>!
+Yet another gift? You're quite curious, <PlayerName>!|Dóte nıq? Tuaobu daosı súq, hóı <PlayerName>!
 Restart game|Restart game
 THE SURVIVOR|MÍEFEA
 The Exterior|PÍU
