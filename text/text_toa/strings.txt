@@ -383,14 +383,14 @@ Why are you doing this?|Tao súq ní kûı hí?
 Please don't come back.|Bu tırıu súq ní ba.
 AUTO|AUTO
 INFO|INFO
-EXIT|EXIT
+EXIT|SHIAO
 Run!|Jara!
 Jump|Jump
 Move|Move
 Left|Left
 Down|Down
 View|View
-Food|Food
+Food|Háq
 EDIT|EDIT
 PLAY|PLAY
 BACK|BACK
@@ -401,7 +401,7 @@ CREATE|CREATE
 DELETE|DELETE
 PRESET|PRESET
 CANCEL|CANCEL
-Depths|Depths
+Depths|Shóa
 SCREEN|SCREEN
 FRENCH|FRENCH
 GERMAN|GERMAN
@@ -415,8 +415,8 @@ minute|minute
 PLAYER|PLAYER
 ALWAYS|ALWAYS
 REMOVE|REMOVE
-Food :|Food :
-Time :|Time :
+Food :|Háq :
+Time :|Dáq :
 cancel|Cancel
 Select|Select
 ? Back|? Back
@@ -457,7 +457,7 @@ Survive|Survive
 Winner!|Winner!
 RESTART|NIQ-TAO
 PASSAGE|DAM-FASE
-Quits :|Quits :
+Quits :|É-shaı :
 Ranking|Ranking
 Profile|Profile
 In Game|In Game
