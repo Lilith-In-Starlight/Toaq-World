@@ -158,7 +158,7 @@ Path of self-sacrifice|Path of self-sacrifice
 objecttype-VultureMask|Jóqtıe Be-buture
 objecttype-DangleFruit|Zéo Mıo
 objecttype-KarmaFlower|Rúa Be-karama
-objecttype-BubbleGrass|Búlaboe
+objecttype-BubbleGrass|Ríorua
 creaturetype-RedLizard|Késı Kıa
 creaturetype-PoleMimic|Áıkopı Be-beaq
 creaturetype-MirosBird|Míroshuao
@@ -245,13 +245,13 @@ backup_info_loading|Loading save slot information...
 backup_info_no_data|No story data exists in this save slot.
 backups_description|View, create, or restore from previously backed up save data.
 save_file_corrupted|An error has occurred attempting to read or initialize the save file.<LINE>In order to protect your save data, game launch has been halted. <LINE>Please contact Akupara Games Support with the following error code.<LINE><LINE>ERROR CODE: {ERROR}<LINE><LINE>Do you wish to retry loading the save file?
-objecttype-PuffBall|Spore Puff
-objecttype-WaterNut|Bubble Fruit
-objecttype-Mushroom|Mushroom
-creaturetype-Spider|Coalescipede
-creaturetype-BigEel|Leviathan
-creaturetype-EggBug|Eggbug
-The Monk-linebreaks|The Monk
+objecttype-PuffBall|Ríokıoq Be-poaı
+objecttype-WaterNut|Búlaboe
+objecttype-Mushroom|Chéalıao
+creaturetype-Spider|Mébosiu
+creaturetype-BigEel|Jémununuq
+creaturetype-EggBug|Kúbochome
+The Monk-linebreaks|Mónachu
 Speedrun Validation|Speedrun Validation
 switch_controls_map|R Button
 Showing level names|Showing level names
@@ -281,9 +281,9 @@ mod_menu_restoring_backup|Attempting to restore backup save data...
 ps4_load_save_slot_failed|Save slot data is corrupted and will be deleted.
 Complete the Monk passage|Complete the Monk passage
 Find a way to communicate|Find a way to communicate
-creaturetype-YellowLizard|Yellow Lizard
-creaturetype-LanternMouse|Lantern Mouse
-creaturetype-RedCentipede|Red Centipede
+creaturetype-YellowLizard|Késı Lue
+creaturetype-LanternMouse|Múse Be-kıoqgıo
+creaturetype-RedCentipede|Léoqhıesıu Kıa
 One need not travel alone|One need not travel alone
 You are hungry, find food|Chuqkuaı súq da. Juq súq báq haq ba.
 invert_x_description_xbox|Invert horizontal axis for analog stick controls.
@@ -307,14 +307,14 @@ backup_restore_description|Overwrite your current save data with the contents of
 ps4_load_expedition_failed|Expedition run data is corrupted and will be deleted.
 Complete the Saint passage|Complete the Saint passage
 Complete the Nomad passage|Complete the Nomad passage
-objecttype-SLOracleSwarmer|Neuron
-objecttype-SSOracleSwarmer|Neuron
-objecttype-OverseerCarcass|Overseer Eye
-creaturetype-DaddyLongLegs|Daddy Long Legs
-creaturetype-TentaclePlant|Monster Kelp
-creaturetype-SpitterSpider|Spitter Spider
-creaturetype-BigNeedleWorm|Noodlefly
-Briefly tap DOWN to crouch|Briefly tap DOWN to crouch
+objecttype-SLOracleSwarmer|Móıhuatoaı
+objecttype-SSOracleSwarmer|Móıhuatoaı
+objecttype-OverseerCarcass|Káqhua Be-káqsı
+creaturetype-DaddyLongLegs|Néoq Shıaq Buaı
+creaturetype-TentaclePlant|Sáo'alaı Moqsuta
+creaturetype-SpitterSpider|Áarane Cutao
+creaturetype-BigNeedleWorm|Rameqgusho
+Briefly tap DOWN to crouch|Tapa súq «GÓA» zûo lá-guqsheaq
 Double tap to switch hands|Double tap to switch hands
 Player <X> is in the game!|Player <X> is in the game!
 Remove level from playlist|Remove level from playlist
@@ -342,13 +342,13 @@ I will accept your gift...|Juq jí ní dote...
 backup_info_description|View information about the contents of the selected backup.
 mod_menu_restore_backup|An error has occurred attempting to read or initialize the save file. However, a backup save file was detected on this system.<LINE><LINE>Press CONTINUE to begin restoring the backup save.
 Fates have been flipped|Fates have been flipped
-creaturetype-PinkLizard|Pink Lizard
-creaturetype-BlueLizard|Blue Lizard
-creaturetype-Salamander|Salamander
-creaturetype-CyanLizard|Cyan Lizard
+creaturetype-PinkLizard|Késı Mıma
+creaturetype-BlueLizard|Kési Mıo
+creaturetype-Salamander|Húoıgebo
+creaturetype-CyanLizard|Kési Kuao
 Embraced by a new tribe|Embraced by a new tribe
-The Survivor-linebreaks|The Survivor
-The Wanderer-linebreaks|The Wanderer
+The Survivor-linebreaks|Míefea
+The Wanderer-linebreaks|Néqkoı
 invert_x_description_ps|Invert horizontal axis for analog stick controls.
 invert_y_description_ps|Invert vertical axis for analog stick controls.
 Gamepad <X> (Not found)|Gamepad <X> (Not found)
@@ -384,28 +384,29 @@ Please don't come back.|Bu tırıu súq ní ba.
 AUTO|AUTO
 INFO|INFO
 EXIT|SHIAO
-Run!|Jara!
-Jump|Jump
-Move|Move
-Left|Left
-Down|Down
-View|View
+Run!|Jara ba!
+Jump|Hıeqtaq
+Move|Fa
+Left|Lıo
+Down|Goa
+View|Kaqgaı
 Food|Háq
 EDIT|EDIT
 PLAY|PLAY
-BACK|BACK
+BACK|RIU
 NEXT|NEXT
 You!|Súq!
 You.|Súq.
 CREATE|CREATE
-DELETE|DELETE
+DELETE|TUASIA
 PRESET|PRESET
 CANCEL|CANCEL
 Depths|Shóa
 SCREEN|SCREEN
-FRENCH|FRENCH
-GERMAN|GERMAN
-KOREAN|KOREAN
+FRENCH|FÁRAQSEZU
+GERMAN|DÓICHEZU
+KOREAN|KÓREAZU
+TOAQ|TÓAQZU
 Player|Player
 Square|Square button
 Circle|Circle button
@@ -472,7 +473,7 @@ Failure|Failure
 ...you.|...súq.
 Please!|Sue jí!
 CLOSE|SHIAO
-STORY|LÚA
+STORY|LꝡÚꝡAꝡꝡꝡꝡꝡꝡ
 ARENA|ÁRENA
 REMIX|RÉMIX
 Cycle|Dáqfe
@@ -516,7 +517,7 @@ You have delivered your most important message|You have delivered your most impo
 You completed every challenge laid before you.|You completed every challenge laid before you.
 Clear every milestone quest in Expedition Mode|Clear every milestone quest in Expedition Mode
 You are not the only lost soul in this world..|You are not the only lost soul in this world..
-Additional food (above four) is kept for later|Bo-mushuo háq nako (séuhuaq jô).
+Additional food (above four) is kept for later|He luoı, ꝡä chuq súq náko, báq shuese
 Grab your prey and hold the eat button to feed|Grab your prey and hold the eat button to feed
 MenuModList_ModButton_Disable_NonMouse_Console|Press CONFIRM to disable this content, press RIGHT BUTTON to return to the list
 MenuModList_ModButton_NonMouse_Display_Console|Press CONFIRM to display, press LEFT BUTTON to move to the toggle button for this content
@@ -550,7 +551,7 @@ Stronger bottomless pit indicators|Stronger bottomless pit indicators
 Monk-style gates for all campaigns|Monk-style gates for all campaigns
 Are you sure you want to continue?|Are you sure you want to continue?
 That's all. You'll have to go now.|That's all. You'll have to go now.
-You again? I have nothing for you.|You again? I have nothing for you.
+You again? I have nothing for you.|Nıqguo tı súq ní? Bo jí sía ꝡë deq do jí súq hóa.
 I wonder what it is that you want?|Duashao jí ꝡä shao súq hí raı da?
 I wish you would stop coming here.|Shao jí ꝡä shaı tırıu súq ní.
 Oh... Of course I will take a look|Oh... fı kaqsı jí ní!
@@ -563,7 +564,7 @@ Workshop upload completed successfully!|Workshop upload completed successfully!
 ps4_load_expedition_restore_corrupt|Expedition core data was corrupted, but the most recent backup of the data was able to be restored.
 You return from scouting a new land|You return from scouting a new land
 Four Needles under Plentiful Leaves|Four Needles under Plentiful Leaves
-However, the game will not be saved|However, the game will not be saved
+However, the game will not be saved|Kéo bu bo-shuotao lúcu da.
 PS4 Dualshock<LINE>Controller Setup|DUALSHOCK®4<LINE>Controller Setup
 Hold Pause Button or Escape to exit|Hold Pause Button or Escape to exit
 switch_controls_singlejoyconl_pause|- Button
@@ -581,7 +582,7 @@ Get... get away... white.... thing.|tı... tıcuq... báo.... ba.
 Thank you, again. I feel wonderful.|Kıjı. Foa jí súoıgı.
 You want me to take a look at that?|Ma shao súq ꝡä sı jí ní?
 Ah, you would like me to read this?|Ah, ma shao súq ꝡä noaq jí ní?
-This... time... don't... come back.|This... time... don't... come back.
+This... time... don't... come back.|Jıa... bu... rıu... súq ba.
 ps4_load_save_slot_load_failed|Unable to load save slot. Error code: {ERROR}
 ps4_load_expedition_run_failed|Unable to load Expedition run data. Error code: {ERROR}
 You have found another way out|You have found another way out
@@ -616,7 +617,7 @@ creaturetype-VultureGrub|Vulture Grub
 creaturetype-KingVulture|King Vulture
 Predator has become prey|Predator has become prey
 The Chieftain-linebreaks|The Chieftain
-Here is a strange energy|Here is a strange energy
+Here is a strange energy|Tı sá mana jua ní.
 switch_pause_help_pickup|Press to pick up objects
 Change screen resolution|Change screen resolution
 Arena mode music volume:|Arena mode music volume:
@@ -697,7 +698,7 @@ jollycoop-name|Jolly Co-op
 Leaving again.|Nıqguo tıshaı.
 Within Time|Within Time
 The Pilgrim|Jémufa
-DELETE SAVE|DELETE SAVE
+DELETE SAVE|TUASIA NÎ CHUKAO
 Sky Islands|Áomo Be-seoq
 Farm Arrays|Mé Haqpaorıaq
 The Scholar|Chíeguaı
@@ -790,13 +791,13 @@ Great strides have been made|Great strides have been made
 Complete the Scholar passage|Complete the Scholar passage
 Complete the Pilgrim passage|Complete the Pilgrim passage
 creaturetype-BrotherLongLegs|Brother Long Legs
-creaturetype-SmallNeedleWorm|Infant Noodlefly
+creaturetype-SmallNeedleWorm|Rámeqgusho Be
 Press any button to continue|Press any button to continue
 A Bell, Eighteen Amber Beads|A Bell, Eighteen Amber Beads
 Two Sprouts, Twelve Brackets|Two Sprouts, Twelve Brackets
 The Dragon Slayer-linebreaks|The Dragon<LINE>Slayer
-Three is enough to hibernate|Three is enough to hibernate
-Rain is coming! Find shelter|Rain is coming! Find shelter
+Three is enough to hibernate|Dıam é-jo, ꝡä koanuo súq
+Rain is coming! Find shelter|Fı ruqshua ꝡo! Fa súq sá hıaocıa ba
 Score required to exit level|Score required to exit level
 Always allow players to exit|Always allow players to exit
 ps4_save_options_description|Rain World Options Save Data
@@ -812,7 +813,7 @@ Oh... Never mind, I suppose.|Oh... sıanha... seto.
 I will...not speak to you...|Bu... bu keoı jí súq...
 You completed every expedition laid before you.|You completed every expedition laid before you.
 Something lurks in a flourishing outcropping...|Something lurks in a flourishing outcropping...
-Additional food (above three) is kept for later|Additional food (above three) is kept for later
+Additional food (above three) is kept for later|He luoı, ꝡä chuq súq náko, báq shuese
 Hold down to wipe your save slot and start over|Hold down to wipe your save slot and start over
 You are starving. Your game has not been saved.|You are starving. Your game has not been saved.
 Are you sure you want to disable this mechanic?|Are you sure you want to disable this mechanic?
@@ -851,8 +852,8 @@ Please... thiss all I have left.|Please... this is all I have left.
 Ah... <PlayerName>, you're back!|Ah... <PlayerName>, you're back!
 Ah... <PlayerName>, you're back.|Ah... <PlayerName>, you're back.
 NO! I will...not speak to you...|ZI! Bu... keoı jí súq...
-A new gift for me, <PlayerName>?|A new gift for me, <PlayerName>?
-<CapPlayerName>, this one again?|<CapPlayerName>, this one again?
+A new gift for me, <PlayerName>?|Hıefa súq jí níq, hói <PlayerName>?
+<CapPlayerName>, this one again?|Ma taoshao nıqguo hao súq ní, hóı <CapPlayerName>?
 Yes, take it and leave me alone.|Nho, juq súq ní rú fajao súq.
 I think the rain is approaching.|Chı jí ꝡä fı ruqshua da.
 ...leaving now? Don't... return.|...fajao súq? Bu tırıu ba.
@@ -878,14 +879,14 @@ No randomized cycle durations|No randomized cycle durations
 Rivulet Rain Timer Multiplier|Rivulet Rain Timer Multiplier
 Unlock the Outer Expanse gate|Unlock the Outer Expanse gate
 Steam manager not initialized|Steam manager not initialized
-This one again, <PlayerName>?|This one again, <PlayerName>?
+This one again, <PlayerName>?|Ma taoshao nıqguo hao súq ní, hóı <PlayerName>?
 Complete the Hunter passage|Complete the Hunter passage
 Complete the Outlaw passage|Complete the Outlaw passage
 Complete the Friend passage|Complete the Friend passage
 Complete the Martyr passage|Complete the Martyr passage
 Complete the Mother passage|Complete the Mother passage
-objecttype-FirecrackerPlant|Cherrybomb
-creaturetype-SmallCentipede|Small Centipede
+objecttype-FirecrackerPlant|Sákuranoke
+creaturetype-SmallCentipede|Léoqhıesıu Nui
 Four is enough to hibernate|Dıam é-jo, ꝡä koanuo súq
 invert_x_description_switch|Invert horizontal axis for analog stick controls.
 invert_y_description_switch|Invert vertical axis for analog stick controls.
@@ -908,10 +909,10 @@ Arena creatures cannot flee|Arena creatures cannot flee
 Monk extra light assistance|Monk extra light assistance
 Zero-gravity spear throwing|Zero-gravity spear throwing
 Unlock all arena characters|Unlock all arena characters
-Oh, it's you, <PlayerName>.|Oh, it's you, <PlayerName>.
+Oh, it's you, <PlayerName>.|Ah, rıu súq ní, hóı <PlayerName>.
 Please... don't do... that.|bu... tao... súq ní.
-What is that, <PlayerName>?|What is that, <PlayerName>?
-Want it back, <PlayerName>?|Want it back, <PlayerName>?
+What is that, <PlayerName>?|Hıa ní, hoı <PlayerName>?
+Want it back, <PlayerName>?|Ma shao súq ní, hóı <PlayerName>?
 Why should I tolerate this?|Why should I tolerate this?
 As I tried to say to you...|As I tried to say to you...
 Something lurks amongst the clouds...|Something lurks amongst the clouds...
@@ -942,8 +943,8 @@ Mod's thumbnail image should have a 16:9 aspect ratio.|Mod's thumbnail image sho
 If you eat it or leave with it, I will die. I beg you.|If you eat it or leave with it, I will die. I beg you.
 Oh, I have already read this one to you, <PlayerName>.|Oh, I have already read this one to you, <PlayerName>.
 Follow the guide|Follow the guide
-objecttype-Spear|Spear
-creaturetype-Fly|Batfly
+objecttype-Spear|Fıqza
+creaturetype-Fly|Muqshoaı
 Select save slot|Select save slot
 Movement Buttons|Movement Buttons
 Shuffling levels|Shuffling levels
@@ -968,7 +969,7 @@ Complete the game as The Survivor or as The Monk|Complete the game as The Surviv
 ConfigMenuTab_ModPercentageButton_MouseEnableAll|Click to enable all mods
 MenuModList_ModButton_NonMouse_Configure_Console|Press CONFIRM to configure, press LEFT BUTTON to move to the toggle button for this content
 Access was denied. Do you own the game on Steam?|Access was denied. Do you own the game on Steam?
-This one I've already read to you, <PlayerName>.|This one I've already read to you, <PlayerName>.
+This one I've already read to you, <PlayerName>.|Haı noaq jí ní, hóı <PlayerName>.
 Complete the game as The Hunter|Complete the game as The Hunter
 Your travels have taken you far|Your travels have taken you far
 You have left this world behind|You have left this world behind
@@ -1034,7 +1035,7 @@ Mod's thumbnail image must be less than 1 MB in size.|Mod's thumbnail image must
 Your account is locked or has a community or VAC ban.|Your account is locked or has a community or VAC ban.
 The workshop service is unavailable. Try again later.|The workshop service is unavailable. Try again later.
 Yet another gift? You're quite curious, <PlayerName>!|Dóte nıq? Tuaobu daosı súq, hóı <PlayerName>!
-Restart game|Restart game
+Restart game|Nıq-sho luaq
 THE SURVIVOR|MÍEFEA
 The Exterior|Píu
 Five Pebbles|Pıo Ne-fe
@@ -1087,7 +1088,7 @@ OpKeyBinder_ErrorConflictOtherModDefault|Conflicting default button with <ModID>
 MenuModList_ModButton_NonMouse_Configure|Press CONFIRM to configure <Mod>
 You are not currently logged into Steam.|You are not currently logged into Steam.
 Yes, help yourself. They are not edible.|Nho, chacha. Bu chuqtıao máq.
-This pearl has been written to just now!|This pearl has been written to just now!
+This pearl has been written to just now!|Hıq kaı sá ní lıem da!
 Droplets upon Five Large Droplets|Droplets upon Five Large Droplets
 Game Over - Press VIEW to restart|Game Over - Press VIEW to restart
 3 - CHOOSE PRESET OR BIND BUTTONS|3 - CHOOSE PRESET OR BIND BUTTONS
@@ -1122,7 +1123,7 @@ Prevents the chance of waking up early before the rain has stopped|Prevents the 
 <CapPlayerName>, if you do that, I will not speak to you any more.|Hóı <CapPlayerName>, âo ꝡä tao súq ní, nä shaı keoı jí súq da.
 The highest enlightenment, achieved by the hardest path. A feat even the guardians must respect.|The highest enlightenment, achieved by the hardest path. A feat even the guardians must respect.
 Standard Remix settings. Many mechanical tweaks that may mix up the way the game is experienced.|Standard Remix settings. Many mechanical tweaks that may mix up the way the game is experienced.
-When crouching, hold the JUMP button without giving any other input|When crouching, hold the JUMP button without giving any other input
+When crouching, hold the JUMP button without giving any other input|Râo guqsheaq súq, nä hupashue súq cíoq be-HIEQTAQ.
 Allow players to exit when rain is close or only one player is left|Allow players to exit when rain is close or only one player is left
 Reduces the overall speed of the game to assist with reaction times|Reduces the overall speed of the game to assist with reaction times
 (Normally requires finding Blue unlock tokens in the campaign maps)|(Normally requires finding Blue unlock tokens in the campaign maps)
@@ -1145,7 +1146,7 @@ Larger prey needs to be incapacitated first|Larger prey needs to be incapacitate
 Little creature. This is your last warning.|Hóı níaı nuı. Tuqsıe ní záruse.
 Please don't... take... more from me... Go.|Bu... juq... súq ní jıbo ba... Jao ba.
 And yet another one! I will read it to you.|Líem nıq! Noaq jí máq ba.
-I've told you about this one, <PlayerName>.|Hıq kuroq jí ní, <PlayerName>.
+I've told you about this one, <PlayerName>.|Haı kuroq jí ní, <PlayerName>.
 And now you expect me to continue speaking?|Chı le súq ꝡä duo kuq jí?
 It's a delicious plant. You should have it!|Gıhaq ní nıu da. Chuq súq ní ba!
 It is possible to hibernate with less than sufficient food|It is possible to hibernate with less than sufficient food
