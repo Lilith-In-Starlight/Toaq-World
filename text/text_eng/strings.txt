@@ -144,8 +144,8 @@ Yet another thing?|Do súq jí sá nıq?
 Yet again leaving.|Nıqguo tıcuq súq .
 Yes, there you go.|Yes, there you go.
 As I was saying...|As I was saying...
-Stay! ... Still...|Stay! ... Still...
-I am... too tired.|I am... too tired.
+Stay! ... Still...|Hushotoı! ... ba...
+I am... too tired.|Duı... nuokuaı.
 Stops nearby explosions causing a ringing sound to play|Stops nearby explosions causing a ringing sound to play
 Find the canonical ending to The Spearmaster's campaign|Find the canonical ending to The Spearmaster's campaign
 Assign player <X> to the default PS4 Dualshock controls|Assign player <X> to the default DUALSHOCK®4 controls
@@ -155,23 +155,23 @@ backup_restore_success|The save data from {X} has been restored.
 backup_info_disclaimer|(Data shown here is based on your currently enabled mods.<LINE>There may exist additional data here from mods that are currently disabled)
 A final charitable act|A final charitable act
 Path of self-sacrifice|Path of self-sacrifice
-objecttype-VultureMask|Vulture Mask
-objecttype-DangleFruit|Blue Fruit
-objecttype-KarmaFlower|Karma Flower
-objecttype-BubbleGrass|Bubble Weed
-creaturetype-RedLizard|Red Lizard
-creaturetype-PoleMimic|Pole Plant
-creaturetype-MirosBird|Miros Bird
-creaturetype-Centipede|Centipede
-creaturetype-Centiwing|Centiwing
-creaturetype-Scavenger|Scavenger
-creaturetype-BigSpider|Big Spider
+objecttype-VultureMask|Jóqtıe Be-buture
+objecttype-DangleFruit|Zéo Mıo
+objecttype-KarmaFlower|Rúa Be-karama
+objecttype-BubbleGrass|Búlaboe
+creaturetype-RedLizard|Késı Kıa
+creaturetype-PoleMimic|Áıkopı Be-beaq
+creaturetype-MirosBird|Míroshuao
+creaturetype-Centipede|Léoqhıesıu
+creaturetype-Centiwing|Shóaıhıesıu
+creaturetype-Scavenger|Mútejoaı
+creaturetype-BigSpider|Árane Sao
 Stronger climbing grip|Stronger climbing grip
 Path of the vegetarian|Path of the vegetarian
-The Scholar-linebreaks|The Scholar
-The Journey-linebreaks|The Journey
-switch_tutorial_crouch|Briefly press DOWN to crouch
-Tap to pick up objects|Tap to pick up objects
+The Scholar-linebreaks|Chíeguaı
+The Journey-linebreaks|Fáse
+switch_tutorial_crouch|Tapa súq GÚQ zûo lä guqsheaq já
+Tap to pick up objects|Tapa súq ní zûo lä juq já bâq raı
 Test your new controls|Test your new controls
 switch_controls_pickup|Y Button
 switch_region_map_help|Press the R Button to view regional map
@@ -195,25 +195,25 @@ Pull spears from walls|Pull spears from walls
 Unlock all collections|Unlock all collections
 expedition-description|Set out on an Expedition in this challenging new game mode. Complete random challenges whilst avoiding permadeath and work towards unlocking new useful perks, punishing burdens, and music tracks to play in the Jukebox.
 Please leave me alone.|Tıcuq súq jíbo ba.
-That... Oh, thank you.|That... Oh, thank you.
+That... Oh, thank you.|Ní... Oh, kuaq kıe.
 ...don't... come back.|...bu... tırıu.
-Oh... You are leaving.|Oh... Tıcuq súq da.
+Oh... You are leaving.|Ah... Fajao súq da.
 Good bye, I suppose...|Shaıdı, seto...
 backup_delete_confirm|Are you sure you want to delete the backup {X}?<LINE>This operation cannot be undone.
 backup_delete_success|{X} was deleted successfully.
 backup_create_success|A new backup {X} has been created from your current save data.
 backup_restore_failed|An error has occurred restoring the backup save data. In order to protect your save data, game launch has been halted.<LINE><LINE>Do you wish to retry restoring the backup data?
-Take what isn't yours|Take what isn't yours
+Take what isn't yours|Juq súq bú suqbo
 Generating map images|Generating map images
-objecttype-SporePlant|Beehive
-objecttype-NSHSwarmer|Green Neuron
-creaturetype-SeaLeech|Sea Leech
-creaturetype-TubeWorm|Grappling Worm
-creaturetype-Overseer|Overseer
+objecttype-SporePlant|Ápıbue
+objecttype-NSHSwarmer|Móıhuatoaı Rıq
+creaturetype-SeaLeech|Áchome Be-naomıq
+creaturetype-TubeWorm|Jíaınunuq
+creaturetype-Overseer|Káqsı
 Path of the carnivore|Path of the carnivore
-The Hunter-linebreaks|The Hunter
-The Outlaw-linebreaks|The Outlaw
-The Friend-linebreaks|The Friend
+The Hunter-linebreaks|Júku
+The Outlaw-linebreaks|Júaocuq
+The Friend-linebreaks|Pái
 Sound effects volume:|Sound effects volume:
 XBox Controller Setup|XBox Controller Setup
 switch_controls_pause|+ Button
@@ -240,7 +240,7 @@ Unlock all challenges|Unlock all challenges
 Gathering information|Gathering information
 jollycoop-description|Local co-op story and other gamemodes with up to 4 players. The journey is better with friends!
 You had your chances.|You had your chances.
-Oh, you want it back?|Oh, you want it back?
+Oh, you want it back?|Oh, shao súq pó ní?
 backup_info_loading|Loading save slot information...
 backup_info_no_data|No story data exists in this save slot.
 backups_description|View, create, or restore from previously backed up save data.
@@ -1022,10 +1022,10 @@ Extra tutorials|Extra tutorials
 Easier dropwigs|Easier dropwigs
 Quality of Life|Quality of Life
 Unlock Slugpups|Unlock Slugpups
-expedition-name|Expedition
-Leave me alone!|Leave me alone!
-Please stop it!|Please stop it!
-Little creature|Little creature
+expedition-name|Suaıfase
+Leave me alone!|Fajao ba!
+Please stop it!|Shaı súq ba!
+Little creature|Níaı nuo
 Prevents falling off from poles when throwing objects|Prevents falling off from poles when throwing objects
 Swim boosting will not consume additional breath time|Swim boosting will not consume additional breath time
 Removes visual effects that cause the screen to shake|Removes visual effects that cause the screen to shake
