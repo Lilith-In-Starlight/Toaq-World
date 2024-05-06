@@ -114,12 +114,12 @@ Desync detected between user mod data and game mod data!<LINE>Re-sycing data.<LI
 No Ringing in Ears|No Ringing in Ears
 remix_game_version|The game's version has been updated. You will need to reapply your mods through the Remix menu.
 ROUNDS SESSION-ru2|ROUNDS SESSION
-objecttype-SeedCob|Popcorn Plant
-objecttype-Lantern|Lantern
-objecttype-FlyLure|Batnip
-creaturetype-Leech|Leech
-creaturetype-Snail|Snail
-creaturetype-Hazer|Hazer
+objecttype-SeedCob|Nuı Be-rıoguı
+objecttype-Lantern|Kíoqgıo
+objecttype-FlyLure|Gúshonıpo
+creaturetype-Leech|Áchome
+creaturetype-Snail|Séqju
+creaturetype-Hazer|Níapuaoche
 Industrial Complex|Díurıaq Be-shuaqjıaq
 Scavenger Merchant|Mútejoaı Teqdo
 Path of aggression|Path of aggression
