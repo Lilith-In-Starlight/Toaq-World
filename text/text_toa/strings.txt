@@ -17,7 +17,7 @@ creaturetype-DropBug|Shuachome
 Communications Array|Mé Be-deoq
 Stolen Enlightenment|Hóegaıla Bo-zanua
 Path of the pacifist|Path of the pacifist
-The Saint-linebreaks|Bushuha
+The Saint-linebreaks|Búshuha
 switch_controls_jump|B Button
 Gametype description|Gametype description
 Play each level once|Play each level once
@@ -47,7 +47,7 @@ Preparing for upload|Preparing for upload
 devtools-description|Enables the in-game Developer Tools which provide the tools necessary to edit maps and regions, and to help with the process of modding the game.<LINE><LINE>Press O in-game to enable/disable Dev Tools, and press H to bring up the main Dev Tools interface.
 ...leave me alone...|...leave me alone...
 Hello, <PlayerName>!|Jadı, <PlayerName>!
-Hello, <PlayerName>.|jadı, <PlayerName>.
+Hello, <PlayerName>.|Jadı, <PlayerName>.
 ...don't... do that.|...bu... tao súq ní.
 Another gift for me?|Do súq jí dóte nıq?
 Again? ... just, go.|Hıba? ... Fajao ba.
@@ -285,7 +285,7 @@ creaturetype-YellowLizard|Yellow Lizard
 creaturetype-LanternMouse|Lantern Mouse
 creaturetype-RedCentipede|Red Centipede
 One need not travel alone|One need not travel alone
-You are hungry, find food|You are hungry, find food
+You are hungry, find food|Chuqkuaı súq da. Juq súq báq haq ba.
 invert_x_description_xbox|Invert horizontal axis for analog stick controls.
 invert_y_description_xbox|Invert vertical axis for analog stick controls.
 Switch to fullscreen mode|Switch to fullscreen mode
@@ -473,9 +473,9 @@ Failure|Failure
 Please!|Sue jí!
 CLOSE|SHIAO
 STORY|LÚA
-ARENA|ARENA
-REMIX|REMIX
-Cycle|Dáqfeme Ko-
+ARENA|ÁRENA
+REMIX|RÉMIX
+Cycle|Dáqfe
 Music|Music
 INPUT|INPUT
 Pause|Pause
@@ -494,7 +494,7 @@ Other|Other
 Remix|Remix
 ...me|...jí
 Oh...|Oh...
-STOP!|SHAI!
+STOP!|SHAI BA!
 no...|zı...
 ps4_load_save_slot_restore_corrupt_failed|Save slot data was corrupted.<LINE>A backup of the data exists, but an error occurred attempting to restore the backup data.
 Assign player <X> to the default controls|Assign player <X> to the default controls
@@ -659,7 +659,7 @@ KEYBOARD|KEYBOARD
 Keyboard|Keyboard
 4 - TEST|4 - TEST
 STANDARD|STANDARD
-CONTINUE|CONTINUEG
+CONTINUE|SIETAO
 Add item|Add item
 Deaths :|Deaths :
 Ascended|Ascended
@@ -886,7 +886,7 @@ Complete the Martyr passage|Complete the Martyr passage
 Complete the Mother passage|Complete the Mother passage
 objecttype-FirecrackerPlant|Cherrybomb
 creaturetype-SmallCentipede|Small Centipede
-Four is enough to hibernate|Deq nuonheoı súq shê chuq súq ne-́jo
+Four is enough to hibernate|Dıam é-jo, ꝡä koanuo súq
 invert_x_description_switch|Invert horizontal axis for analog stick controls.
 invert_y_description_switch|Invert vertical axis for analog stick controls.
 Player <X> will use gamepad|Player <X> will use gamepad
@@ -1036,7 +1036,7 @@ The workshop service is unavailable. Try again later.|The workshop service is un
 Yet another gift? You're quite curious, <PlayerName>!|Dóte nıq? Tuaobu daosı súq, hóı <PlayerName>!
 Restart game|Restart game
 THE SURVIVOR|MÍEFEA
-The Exterior|PÍU
+The Exterior|PÍu
 Five Pebbles|Pıo Ne-fe
 Subterranean|Gúaqguq
 The Survivor|Míefea
