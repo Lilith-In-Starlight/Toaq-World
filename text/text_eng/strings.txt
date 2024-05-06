@@ -52,15 +52,15 @@ Hello, <PlayerName>.|jadı, <PlayerName>.
 Another gift for me?|Do súq jí dóte nıq?
 Again? ... just, go.|Hıba? ... Fajao ba.
 Little archaeologist|Huaıgeonıaı
-ludeo-map-missing|You don't have the map necessary to run this Ludeo! Please enable the appropriate DLC or mod to gain access.
-ludeo-description|Enables the use of creating and playing Ludeos in Sandbox mode.
-remix_dlc_restart|If you purchased the DLC, you will need to relaunch the game for the content to become available.
+ludeo-map-missing|If you can see this text, something has gone completely awry.
+ludeo-description|If you can see this text, something has gone completely awry.
+remix_dlc_restart|Dâı ꝡä jea súq DLC, nä chıa nıqguo atıja súq lúcu zûo ꝡä koekıu tá.
 Expedition Leader|Expedition Leader
-creaturetype-Deer|Rain Deer
+creaturetype-Deer|Shuabosıu
 Looks to the Moon|Káqgai Lô Mıao
 Filtration System|Doeme Be-koaı
 The Dragon Slayer|Múaqtua Bâq Makoq
-Back to main menu|Back to main menu
+Back to main menu|Rıu súq ménhu
 1 - SELECT PLAYER|1 - SELECT PLAYER
 2 - SELECT DEVICE|2 - SELECT DEVICE
 Previous gametype|Previous gametype
@@ -68,9 +68,9 @@ Reset score setup|Reset score setup
 ps4_press_to_join|Press<LINE><LINE><LINE>to join.
 minute until rain|minute until rain
 per point of food|per point of food
-Delivered Payload|Delivered Payload
+Delivered Payload|Do súq ládiq háo
 Leaderboard empty|Leaderboard empty
-mod_menu_finalize|(Finalizing applying mods, please wait...)
+mod_menu_finalize|(Taomuo toı íme lúcu pó tú Mod da. Lao ba...)
 MenuModStat_ModID|ID: <ModID>
 Key item tracking|Key item tracking
 Alpha red lizards|Alpha reds
@@ -78,26 +78,26 @@ Unlock all arenas|Unlock all arenas
 moreslugcats-name|More Slugcats Expansion
 Yet another gift?|Dóte nıq?
 And you are back.|Tırıu súq da.
-ludeo-name|Ludeo
+ludeo-name|Fuck.
 STORY DATA|STORY DATA
 The Martyr|Zúonoı
 The Mother|Róaq
 Rain World|Rain World
-STATISTICS|STATISTICS
+STATISTICS|GÚOKAO
 THE HUNTER|JÚKU
 The Hunter|Júku
 The Outlaw|Júaocuq
 The Friend|Páı
 Pilgrimage|Jémufase
-FULLSCREEN|FULLSCREEN
+FULLSCREEN|MÚOKIQKEA
 SAVE FILES|SAVE FILES
-PORTUGUESE|PORTUGUESE
+PORTUGUESE|PUTUGAOZU
 TEST INPUT|TEST INPUT
 Left Stick|Left Stick
 Hold Space|Hold Space
 Map Button|Map Button
 Free food!|Free food!
-Loading...|Loading...
+Loading...|Laotaq...
 CROSS-SAVE|CROSS-SAVE
 Load Order|Load Order
 Oh, hello!|Ah, jadı!
@@ -107,9 +107,9 @@ You again.|Tırıu súq ní.
 ...stop...|...shaı...
 Thank you.|Kıjı.
 Issues found while loading mods!<LINE>Disabling problematic mods.<LINE>Press continue and then launch the game again.|Issues found while loading mods!<LINE>Disabling problematic mods.<LINE>Press continue and then launch the game again.
-...you ate... me. Please go away. I won't speak... to you.<LINE>I... CAN'T speak to you... because... you ate...me...|...you ate... me. Please go away. I won't speak... to you.<LINE>I... CAN'T speak to you... because... you ate...me...
-First you hurt me, then you come back to annoy me.<LINE>I wish I knew what was going on in that little head of yours.|First you hurt me, then you come back to annoy me.<LINE>I wish I knew what was going on in that little head of yours.
-It's a weapon made with fire powder. Did the scavengers give this to you?<LINE>Be very careful if you have to use it!|It's a weapon made with fire powder. Did the scavengers give this to you?<LINE>Be very careful if you have to use it!
+...you ate... me. Please go away. I won't speak... to you.<LINE>I... CAN'T speak to you... because... you ate...me...|...chuq súq... jí. Fajao súq ba. Bu shao keoı jí... súq.<LINE>Bu... JUOQ keoı jí súq... kûı... ꝡá... chuq súq jí...
+First you hurt me, then you come back to annoy me.<LINE>I wish I knew what was going on in that little head of yours.|Hıao súq jí. Bıe ní, ꝡä bufoaqca súq jí.<LINE>Shao dua jí ꝡä moı súq hí raı.
+It's a weapon made with fire powder. Did the scavengers give this to you?<LINE>Be very careful if you have to use it!|Eq ní báq hıaochuo ꝡë moaq hó púo be-loe. Ma do mútejoaı súq ní?<LINE>Chıaıtaosı súq râo ꝡä choq súq hóa ba!
 Desync detected between user mod data and game mod data!<LINE>Re-sycing data.<LINE>Press continue and then launch the game again.<LINE>Disabled mods:|Desync detected between user mod data and game mod data!<LINE>Re-sycing data.<LINE>Press continue and then launch the game again.<LINE>Disabled mods:
 No Ringing in Ears|No Ringing in Ears
 remix_game_version|The game's version has been updated. You will need to reapply your mods through the Remix menu.
