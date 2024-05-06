@@ -171,7 +171,7 @@ Path of the vegetarian|Path of the vegetarian
 The Scholar-linebreaks|Chíeguaı
 The Journey-linebreaks|Fáse
 switch_tutorial_crouch|Tapa súq GÚQ zûo lä guqsheaq já
-Tap to pick up objects|Tapa súq ní zûo lä juq já bâq raı
+Tap to pick up objects|Tapa súq máq zûo lä juq já bâq raı
 Test your new controls|Test your new controls
 switch_controls_pickup|Y Button
 switch_region_map_help|Press the R Button to view regional map
@@ -538,7 +538,7 @@ Complete the Dragon Slayer passage|Complete the Dragon Slayer passage
 Something lurks in the darkness...|Something lurks in the darkness...
 Complete the game as The Artificer|Complete the game as The Artificer
 Five Pebbles (General Systems Bus)|Five Pebbles (General Systems Bus)
-Pick up / Eat button interactions:|Pick up / Eat button interactions:
+Pick up / Eat button interactions:|Chá po cíoq bela-Juq / Chuq:
 Game Over - Press SPACE to restart|Game Over - Press SPACE to restart
 switch_controls_singlejoyconl_jump|Down Button
 switch_controls_singlejoyconr_jump|A Button
