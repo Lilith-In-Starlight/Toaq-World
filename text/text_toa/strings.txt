@@ -1036,7 +1036,7 @@ The workshop service is unavailable. Try again later.|The workshop service is un
 Yet another gift? You're quite curious, <PlayerName>!|Dóte nıq? Tuaobu daosı súq, hóı <PlayerName>!
 Restart game|Restart game
 THE SURVIVOR|MÍEFEA
-The Exterior|PÍu
+The Exterior|Píu
 Five Pebbles|Pıo Ne-fe
 Subterranean|Gúaqguq
 The Survivor|Míefea
