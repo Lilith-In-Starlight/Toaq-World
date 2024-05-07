@@ -90,7 +90,7 @@ The Outlaw|Júaocuq
 The Friend|Páı
 Pilgrimage|Jémufase
 FULLSCREEN|MÚOKIQKEA
-SAVE FILES|SAVE FILES
+SAVE FILES|PÓ CHÚKAO
 PORTUGUESE|PUTUGAOZU
 TEST INPUT|TEST INPUT
 Left Stick|Left Stick
@@ -334,7 +334,7 @@ Connector_SaveConfig_Alert|Saved the current configuration of <ModName>
 OIError_Message_Initialize|There was an issue initializing OptionInterface.
 Vulture grub arena variety|Vulture grub arena variety
 Lossless scavenger corpses|Lossless scavenger corpses
-Continue to the next cycle|Continue to the next cycle
+Continue to the next cycle|Sıetao lô dáqfe sazoq
 Or did I say that already?|... ma haı kuq jí ní?
 Hello again, <PlayerName>!|Jadı, <PlayerName>!
 Hello again, <PlayerName>.|Jadı, <PlayerName>.
@@ -402,7 +402,7 @@ DELETE|TUASIA
 PRESET|PRESET
 CANCEL|CANCEL
 Depths|Shóa
-SCREEN|SCREEN
+SCREEN|PÓ KÍQKEA
 FRENCH|FÁRAQSEZU
 GERMAN|DÓICHEZU
 KOREAN|KÓREAZU
@@ -436,7 +436,7 @@ Again.|Nıqguo.
 friend|paı
 little|nuo
 RESTORE|RESTORE
-BACKUPS|BACKUPS
+BACKUPS|CHÍAITUERE
 No data|No data
 Closure|Closure
 REGIONS|RÉGU
@@ -477,7 +477,7 @@ STORY|LÚA
 ARENA|ÁRENA
 REMIX|RÉMIX
 Cycle|Dáqfe
-Music|Music
+Music|Gíaq
 INPUT|INPUT
 Pause|Lao
 Throw|Hıao
@@ -653,8 +653,8 @@ NEW GAME|É-LUAQ NIQ
 THE MONK|MÓNACHU
 The Wall|Góeq
 The Monk|Mónachu
-WINDOWED|WINDOWED
-LANGUAGE|LANGUAGE
+WINDOWED|BIQDONIE
+LANGUAGE|ZÚ
 JAPANESE|NÍHOQZU
 KEYBOARD|KEYBOARD
 Keyboard|Keyboard
@@ -683,7 +683,7 @@ Shaded Citadel|Dóaq Gıohıaq
 Chimney Canopy|Múaoguaq Be-goqbıu
 Unknown Region|Unknown Region
 Scavenger Toll|Teqtıeq Be-mutejoaı
-RESET PROGRESS|RESET PROGRESS
+RESET PROGRESS|TUASIA NÎ E-TAICHU
 Input Settings|Input Settings
 Pick-Up Button|Pick-Up Button
 ROUNDS SESSION|ROUNDS SESSION
@@ -703,7 +703,7 @@ Sky Islands|Áomo Be-seoq
 Farm Arrays|Mé Bâq Haqpaorıaq
 The Scholar|Chíeguaı
 The Journey|Fáse
-Arena Music|Arena Music
+Arena Music|Gíaq po Árena
 Jump Button|Jump Button
 NEW SESSION|NEW SESSION
 Spears Hit:|Spears Hit:
@@ -729,8 +729,8 @@ Shoreline|Náomıqrea
 Underhang|Béaı guq
 The Saint|Búshuha
 Ascension|Ascension
-SAVE SLOT|SAVE SLOT
-vibration|Vibration
+SAVE SLOT|CHÚKAO
+vibration|Tío-suaıfurı
 Connected|Connected
 Wildlife:|Wildlife:
 Spear hit|Spear hit
@@ -866,7 +866,7 @@ Standard items spawn on level|Standard items spawn on level
 ps4_save_progress_description|Rain World Progress {0} Save Data
 OpColorPicker_NonMouseSliders|With joystick, up or down to choose, left or right to adjust. Press CONFIRM to apply
 OpScrollBox_MouseTutoSlidebar|Use scroll wheel or scrollbar to see more
-ConfigMenuTab_BackButton_Desc|Return to main menu
+ConfigMenuTab_BackButton_Desc|Rıu lô ménhu
 ConfigMenuTab_SaveButton_Desc|Save current mod's configurations and return
 MenuModList_ModButton_Display|Display <Mod>
 MenuModList_ListButton_SwapUp|Click to make this mod load later than the mods above it
