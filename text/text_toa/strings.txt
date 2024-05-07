@@ -14,7 +14,7 @@ creaturetype-CicadaA|Chakakicie
 creaturetype-CicadaB|Chakakicie
 creaturetype-JetFish|Sikicie
 creaturetype-DropBug|Shuachome
-Communications Array|Mé Be-deoq
+Communications Array|Mé Bâq Be-deoq
 Stolen Enlightenment|Hóegaıla Bo-zanua
 Path of the pacifist|Path of the pacifist
 The Saint-linebreaks|Búshuha
@@ -94,7 +94,7 @@ SAVE FILES|SAVE FILES
 PORTUGUESE|PUTUGAOZU
 TEST INPUT|TEST INPUT
 Left Stick|Left Stick
-Hold Space|Hold Space
+Hold Space|Hupashue lô Shealaıcıoq
 Map Button|Map Button
 Free food!|Free food!
 Loading...|Laotaq...
@@ -170,7 +170,7 @@ Stronger climbing grip|Stronger climbing grip
 Path of the vegetarian|Path of the vegetarian
 The Scholar-linebreaks|Chíeguaı
 The Journey-linebreaks|Fáse
-switch_tutorial_crouch|Tapa súq GÚQ zûo lä guqsheaq já
+switch_tutorial_crouch|Tapa súq bé-GUQ zûo lä guqsheaq já
 Tap to pick up objects|Tapa súq máq zûo lä juq já bâq raı
 Test your new controls|Test your new controls
 switch_controls_pickup|Y Button
@@ -315,7 +315,7 @@ creaturetype-TentaclePlant|Sáo'alaı Moqsuta
 creaturetype-SpitterSpider|Áarane Cutao
 creaturetype-BigNeedleWorm|Rameqgusho
 Briefly tap DOWN to crouch|Tapa súq «GÓA» zûo lá-guqsheaq
-Double tap to switch hands|Double tap to switch hands
+Double tap to switch hands|Guchıo tapa súq máq zûo ꝡä shocheo pó nhoka hézo
 Player <X> is in the game!|Player <X> is in the game!
 Remove level from playlist|Remove level from playlist
 Resume unfinished playlist|Resume unfinished playlist
@@ -410,8 +410,8 @@ TOAQ|TÓAQZU
 Player|Player
 Square|Square button
 Circle|Circle button
-Arrows|Arrows
-Paused|Paused
+Arrows|Dúolaı
+Paused|Chum lao
 minute|minute
 PLAYER|PLAYER
 ALWAYS|ALWAYS
@@ -479,8 +479,8 @@ REMIX|RÉMIX
 Cycle|Dáqfe
 Music|Music
 INPUT|INPUT
-Pause|Pause
-Throw|Throw
+Pause|Lao
+Throw|Hıao
 Right|Right
 Cross|Cross button
 Space|Space
@@ -538,7 +538,7 @@ ps4_load_save_slot_restore_corrupt|Save slot data was corrupted, but the most re
 Complete the Dragon Slayer passage|Complete the Dragon Slayer passage
 Something lurks in the darkness...|Something lurks in the darkness...
 Complete the game as The Artificer|Complete the game as The Artificer
-Five Pebbles (General Systems Bus)|Five Pebbles (General Systems Bus)
+Five Pebbles (General Systems Bus)|Pıo Ne-fe (Mé Tûq Doeme)
 Pick up / Eat button interactions:|Chá po cíoq bela-Juq / Chuq:
 Game Over - Press SPACE to restart|Game Over - Press SPACE to restart
 switch_controls_singlejoyconl_jump|Down Button
@@ -700,7 +700,7 @@ Within Time|Within Time
 The Pilgrim|Jémufa
 DELETE SAVE|TUASIA NÎ CHUKAO
 Sky Islands|Áomo Be-seoq
-Farm Arrays|Mé Haqpaorıaq
+Farm Arrays|Mé Bâq Haqpaorıaq
 The Scholar|Chíeguaı
 The Journey|Fáse
 Arena Music|Arena Music
@@ -859,8 +859,8 @@ I think the rain is approaching.|Chı jí ꝡä fı ruqshua da.
 ...leaving now? Don't... return.|...fajao súq? Bu tırıu ba.
 Complete the Survivor passage|Complete the Survivor passage
 Complete the Wanderer passage|Complete the Wanderer passage
-Five Pebbles (Memory Conflux)|Five Pebbles (Memory Conflux)
-Hold to eat / swallow objects|Hold to eat / swallow objects
+Five Pebbles (Memory Conflux)|Pıo Ne-fe (Jío Be-moaqsıo)
+Hold to eat / swallow objects|Hupashue súq máq zûe lä chuq ra tuo já báq raı
 Configure controls for player|Configure controls for player
 Standard items spawn on level|Standard items spawn on level
 ps4_save_progress_description|Rain World Progress {0} Save Data
@@ -1046,8 +1046,8 @@ A New Friend|A New Friend
 You are full|Chuqmuo súq
 Leap the gap|Loma ba
 View credits|View credits
-Pause Button|Pause Button
-Throw Button|Throw Button
+Pause Button|Cío Be-lao
+Throw Button|Cíoq Be-hieq
 Select level|Select level
 Low wildlife|Low wildlife
 Level Items:|Level Items:
@@ -1080,8 +1080,8 @@ Ah... <PlayerName>, you're here again.|Ah... <PlayerName>, tırıu súq da.
 I must ask you... Don't do that again.|Sue jí súq... lä bu nıqguo tao súq ní.
 Rain... You better go. I will be fine.|Shua... Fa súq sá hıocıa ba. Jıa okeı jí da.
 <CapPlayerName>... Please settle down.|<CapPlayerName>... shaı zuoı ba.
-Yes, there you go. This is ridiculous.|Yes, there you go. This is ridiculous.
-Five Pebbles (Recursive Transform Array)|Pıo Ne-fe (Mé Ceoqbeokea Tıeqreı)
+Yes, there you go. This is ridiculous.|Ah. Noga. Juaıluaı ní.
+Five Pebbles (Recursive Transform Array)|Pıo Ne-fe (Mé Bâq Ceoqbeokea Tıeqreı)
 You need to eat meat to sustain yourself|You need to eat meat to sustain yourself
 Default singleplayer<LINE>keyboard setup|Default singleplayer<LINE>keyboard setup
 OpKeyBinder_ErrorConflictOtherModDefault|Conflicting default button with <ModID>
@@ -1099,7 +1099,7 @@ ConfigMenuTab_BackHoldButton_Desc|Return to main menu (without applying mods!)
 Passage progress without Survivor|Passage progress without Survivor
 I will not speak to you any more.|I will not speak to you any more.
 You encountered the echo of Droplets upon Five Large Droplets|You encountered the echo of Droplets upon Five Large Droplets
-Press while holding down direction (crouching) to drop object|Press while holding down direction (crouching) to drop object
+Press while holding down direction (crouching) to drop object|Hupashue súq máq róı bé-GUQ, nä zuo hóa lä heaqshaı lá báq raı
 You must activate this mod before attempting to configure it.|You must activate this mod before attempting to configure it.
 I won't tolerate this. Leave immediately and don't come back.|Bu loıfea jí ní da. Fajao súq ba. Bu rıofa súq ní.
 As you can see, I have nothing for you. Not even my memories.|Deq kaqgaı súq ꝡä bo jí sía ráı. Bu bo jí móaqshaı jıbo.
@@ -1177,13 +1177,13 @@ Show information on loading screens that helps verify settings used and the legi
 Give a grace period on cycle start and region entry before scavenger kill squads can attack you|Give a grace period on cycle start and region entry before scavenger kill squads can attack you
 Advantageous glitches and speedrunner exploits are made available to use again with this option|Advantageous glitches and speedrunner exploits are made available to use again with this option
 Similar to the original Rain World experience, but with a few quality of life settings enabled.|Similar to the original Rain World experience, but with a few quality of life settings enabled.
-Map|Map
+Map|Gúaqfaq
 Esc|Esc
-Yes|Yes
-YES|YES
+Yes|Nho
+YES|NHO
 HUD|HUD
-run|run
-Up|Up
+run|jara
+Up|Gáo
 R1|R1
 RB|RB
 ok|OK
@@ -1254,7 +1254,7 @@ Gives a chance of escaping from different grasps by rapidly wiggling with the mo
 Multiplies the total duration of the shortened rain timer by this amount in Rivulet's Campaign|Multiplies the total duration of the shortened rain timer by this amount in Rivulet's Campaign
 Prevents Jetfish from being able to knock items out of your hands|Prevents Jetfish from being able to knock items out of your hands
 Changes the amount of cycles Hunter starts with in their campaign|Changes the amount of cycles Hunter starts with in their campaign
-You're stuck in a cycle, a repeating pattern. You want a way out.|Duna súq pó dáqfeme, kïo gúoteı chıo kı. Shao shaı súq ní.
+You're stuck in a cycle, a repeating pattern. You want a way out.|Duna súq pó dáqfeme, jeı gúoteı chıo da. Shao shaı súq ní.
 Another pearl! You want me to read this one too? Just a moment...|Líem nıq! Aomoı súq ꝡä noaq jí máo ní? Lao ba...
 A pearl... This one is crystal clear - it was used just recently.|A pearl... This one is crystal clear - it was used just recently.
 Gives a small chance of being able to survive a direct attack from a dropwig|Gives a small chance of being able to survive a direct attack from a dropwig
@@ -1282,7 +1282,7 @@ Let us try again - not that it has worked well before. I was saying...|Let us tr
 If you are having trouble, you may want to try The Monk campaign first. It may help you get a better feel for the game and ease you into Rain World.|If you are having trouble, you may want to try The Monk campaign first. It may help you get a better feel for the game and ease you into Rain World.
 If enabled, scavenger corpses in Artificer's campaign don't lose karma after each cycle|If enabled, scavenger corpses in Artificer's campaign don't lose karma after each cycle
 (Normally requires delivering pearls and finding broadcast tokens in the campaign maps)|(Normally requires delivering pearls and finding broadcast tokens in the campaign maps)
-Know that this does not make you special - every living thing shares that same frustration.<LINE>From the microbes in the processing strata to me, who am, if you excuse me, godlike in comparison.|Dua súq ꝡä bu ꝡä leı súq kûı ní ba - sıu súq tú mıe ní doq-buaqfeı.<LINE>From the microbes in the processing strata to me, who am, if you excuse me, godlike in comparison.
+Know that this does not make you special - every living thing shares that same frustration.<LINE>From the microbes in the processing strata to me, who am, if you excuse me, godlike in comparison.|Dua súq ꝡä bu ꝡä leı súq kûı ní ba - sıu súq tú mıe kûı ní doq-buaqfeı da.<LINE>Juqca ní tú mıe da. Juqca hú júaq jí, jü, kïo ruao súq jí lä chuado já áq ní ba kı, sıujıao hóa da.
 Look at me. The only thing I have to offer is my words.<LINE>If you come here, I must assume you want me to speak? So then would you PLEASE listen?<LINE>If not, you are welcome to leave me alone.|Look at me. The only thing I have to offer is my words.<LINE>If you come here, I must assume you want me to speak? So then would you PLEASE listen?<LINE>If not, you are welcome to leave me alone.
 The bad news is that no definitive solution has been found. And every moment the equipment erodes to a new state of decay.<LINE>I can't help you collectively, or individually. I can't even help myself.|The bad news is that no definitive solution has been found. And every moment the equipment erodes to a new state of decay.<LINE>I can't help you collectively, or individually. I can't even help myself.
 At the end of time none of this will matter I suppose, but it would be nice if you took another way out.<LINE>One free of... frolicking in my memory arrays. There is a perfectly good access shaft right here.|At the end of time none of this will matter I suppose, but it would be nice if you took another way out.<LINE>One free of... frolicking in my memory arrays. There is a perfectly good access shaft right here.
