@@ -473,7 +473,7 @@ Failure|Failure
 ...you.|...súq.
 Please!|Sue jí!
 CLOSE|SHIAO
-STORY|LꝡÚꝡAꝡꝡꝡꝡꝡꝡ
+STORY|LÚA
 ARENA|ÁRENA
 REMIX|RÉMIX
 Cycle|Dáqfe
@@ -649,13 +649,13 @@ Oh... I will take a look|Oh... kaqsı jí máq ba
 Invert X|Invert X
 Invert Y|Invert Y
 Champion|Champion
-NEW GAME|NEW GAME
-THE MONK|THE MONK
+NEW GAME|É-LUAQ NIQ
+THE MONK|MÓNACHU
 The Wall|Góeq
 The Monk|Mónachu
 WINDOWED|WINDOWED
 LANGUAGE|LANGUAGE
-JAPANESE|JAPANESE
+JAPANESE|NÍHOQZU
 KEYBOARD|KEYBOARD
 Keyboard|Keyboard
 4 - TEST|4 - TEST
