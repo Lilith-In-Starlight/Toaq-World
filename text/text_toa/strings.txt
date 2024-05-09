@@ -522,7 +522,7 @@ Grab your prey and hold the eat button to feed|Grab your prey and hold the eat b
 MenuModList_ModButton_Disable_NonMouse_Console|Press CONFIRM to disable this content, press RIGHT BUTTON to return to the list
 MenuModList_ModButton_NonMouse_Display_Console|Press CONFIRM to display, press LEFT BUTTON to move to the toggle button for this content
 ConfigTabController_TabSelectButton_UnnamedTab|Switch to tab #<TabIndex>
-Not that it solves anyone's problem but yours.|Noaboq ní tó súqbo.
+Not that it solves anyone's problem but yours.|Hoaınu, noaboq ní tó súqbo da.
 As I mentioned you do not have unlimited time.|As I mentioned you do not have unlimited time.
 Another? You're no better than the scavengers!|Líem nıq? Sıu súq mútejoaı!
 I won't talk to you if you continue like this.|Shaı keoı jí súq, âo bu shaı súq ní.
@@ -616,7 +616,7 @@ creaturetype-TempleGuard|Guardian
 creaturetype-VultureGrub|Vulture Grub
 creaturetype-KingVulture|King Vulture
 Predator has become prey|Predator has become prey
-The Chieftain-linebreaks|The Chieftain
+The Chieftain-linebreaks|Jóq
 Here is a strange energy|Tı sá mana jua ní.
 switch_pause_help_pickup|Press to pick up objects
 Change screen resolution|Change screen resolution
@@ -639,7 +639,7 @@ Splashes alert creatures|Splashes alert creatures
 Disable shelter failures|Disable shelter failures
 Unlock all sandbox items|Unlock all sandbox items
 moreslugcats-description|An expansion adding five new playable campaigns, each unique in its spot on the timeline. This expansion includes new regions, creatures, items, music, alternate endings, new game modes, and much more.
-...is this reaching you?|...ma luısho ní súq?
+...is this reaching you?|...ma lım súq ní?
 Oh, <PlayerName>. Hello!|Oh, <PlayerName>. Jadı!
 Oh, <PlayerName>. Hello.|Oh, <PlayerName>. Jadı.
 Oh... I will look at it.|Oh... kaqsı jí máq ba.
@@ -1099,7 +1099,7 @@ ConfigMenuTab_BackHoldButton_Desc|Return to main menu (without applying mods!)
 Passage progress without Survivor|Passage progress without Survivor
 I will not speak to you any more.|I will not speak to you any more.
 You encountered the echo of Droplets upon Five Large Droplets|You encountered the echo of Droplets upon Five Large Droplets
-Press while holding down direction (crouching) to drop object|Hupashue súq máq róı bẹ́GUQ, nä zuo hóa lä heaqshaı lá báq raı
+Press while holding down direction (crouching) to drop object|Hupashue súq máq róı bẹ́GUQ zûo lä heaqshaı lá báq raı
 You must activate this mod before attempting to configure it.|You must activate this mod before attempting to configure it.
 I won't tolerate this. Leave immediately and don't come back.|Bu loıfea jí ní da. Fajao súq ba. Bu rıofa súq ní.
 As you can see, I have nothing for you. Not even my memories.|Deq kaqgaı súq ꝡä bo jí sía ráı. Bu bo jí móaqshaı jıbo.
@@ -1172,7 +1172,7 @@ Red Lizards have a tongue and can snap spears in half with their bite|Reds have 
 The intended gameplay loop is to have to actively hunt fresh corpses.|The intended gameplay loop is to have to actively hunt fresh corpses.
 Some of the metadata for this mod was invalid and cannot be accepted.|Some of the metadata for this mod was invalid and cannot be accepted.
 Maybe this is asking too much... But, would you bring me another one?|Maybe this is asking too much... But, would you bring me another one?
-The rain is coming. If you stay, you will drown. Now, leave me alone.|The rain is coming. If you stay, you will drown. Now, leave me alone.
+The rain is coming. If you stay, you will drown. Now, leave me alone.|Fı ruqshua da. Dâı ꝡä rıu súq ní, nä naotuo súq da. Toıshaı súq jí da!
 Show information on loading screens that helps verify settings used and the legitimacy of runs.|Show information on loading screens that helps verify settings used and the legitimacy of runs.
 Give a grace period on cycle start and region entry before scavenger kill squads can attack you|Give a grace period on cycle start and region entry before scavenger kill squads can attack you
 Advantageous glitches and speedrunner exploits are made available to use again with this option|Advantageous glitches and speedrunner exploits are made available to use again with this option
@@ -1208,7 +1208,7 @@ A little animal, on the floor of my chamber. I think I know what you are looking
 Really exit? Note that quitting after 30 seconds into a cycle counts as a loss.|Really exit? Note that quitting after 30 seconds into a cycle counts as a loss.
 You get these at Five Pebbles'?<LINE>Thank you so much. I'm sure he won't mind.|Ma caqbo ní mí Pıo Nẹfe?<LINE>Kuaq jaq kıe ka. Zoaıcıa jí ꝡä suaojıe nháo ní.
 Create custom scenarios using levels, items and creatures<LINE>that have been unlocked in the single player campaigns.<LINE>Defeating creatures or other actions can be set to award points,<LINE>but Sandbox is mostly about customization and fun!|Create custom scenarios using levels, items and creatures<LINE>that have been unlocked in the story campaigns.<LINE>Defeating creatures or other actions can be set to award points,<LINE>but Sandbox is mostly about customization and fun!
-For you though, there is another way. The old path. Go to the west past the Farm Arrays, and then down into the earth<LINE>where the land fissures, as deep as you can reach, where the ancients built their temples and danced their silly rituals.|Súq bï, raı sá tıeq hezo da. Tíeq geo. Ꝡa fa súq hóre, cûaofa Mé Bâq Háqpaorıaq ba.
+For you though, there is another way. The old path. Go to the west past the Farm Arrays, and then down into the earth<LINE>where the land fissures, as deep as you can reach, where the ancients built their temples and danced their silly rituals.|Súq bï, raı sá tıeq hezo da. Tíeq geo. Ꝡa fa súq hóre, cûaofa Mé Bâq Háqpaorıaq ba. Bîe ní, nä fa súq shóa, fâna sá guaqguq<LINE>ꝡë baı géomıqpoq chíjıo tî hóa rú ꝡë jemarao hó tî hóa.
 Compete in a battle against each other and the elements.<LINE>In this mode points are awarded for food items consumed,<LINE>with surviving players always ranking above dead players.<LINE>New levels, items and creatures can be unlocked in the<LINE>single player campaigns.|Compete in a battle against each other and the elements.<LINE>In this mode points are awarded for food items consumed,<LINE>with surviving players always ranking above dead players.<LINE>New levels, items and creatures can be unlocked in the<LINE>story campaigns.
 No items except what you place in the editor|No items except what you place in the editor
 Allow players above a specific score to exit|Allow players above a specific score to exit
@@ -1285,15 +1285,15 @@ If enabled, scavenger corpses in Artificer's campaign don't lose karma after eac
 Know that this does not make you special - every living thing shares that same frustration.<LINE>From the microbes in the processing strata to me, who am, if you excuse me, godlike in comparison.|Dua súq ꝡä bu ꝡä leı súq kûı ní ba - sıu súq tú mıe kûı ní doq-buaqfeı da.<LINE>Juqca ní tú mıe da. Juqca hú júaq jí, jü, kïo ruao súq jí lä chuado já áq ní ba kı, sıujıao hóa da.
 Look at me. The only thing I have to offer is my words.<LINE>If you come here, I must assume you want me to speak? So then would you PLEASE listen?<LINE>If not, you are welcome to leave me alone.|Look at me. The only thing I have to offer is my words.<LINE>If you come here, I must assume you want me to speak? So then would you PLEASE listen?<LINE>If not, you are welcome to leave me alone.
 The bad news is that no definitive solution has been found. And every moment the equipment erodes to a new state of decay.<LINE>I can't help you collectively, or individually. I can't even help myself.|Níqdao huı bï dua sía nóaboq da. Chumbọnuagoaı kéa ımebo, shô hạhuı da. Bu deq soa jí súq rú chéme suqbo da. Bu deq soa jí júaq áq.
-At the end of time none of this will matter I suppose, but it would be nice if you took another way out.<LINE>One free of... frolicking in my memory arrays. There is a perfectly good access shaft right here.|At the end of time none of this will matter I suppose, but it would be nice if you took another way out.<LINE>One free of... frolicking in my memory arrays. There is a perfectly good access shaft right here.
-For you though, there is another way. The old path. Go to the west past the Farm Arrays, and then down into the earth<LINE>where the land fissures, as deep as you can reach, where the ancients built their temples and danced their silly rituals.<LINE>The mark I gave you will let you through.|Súq bï, raı sá tıeq hezo da. Fa súq hóre, cûaofa Mé Bâq Haqpaorıaq
-The good news first. In a way, I am what you are searching for. Me and my kind have as our<LINE>purpose to solve that very oscillating claustrophobia in the chests of you and countless others.<LINE>A strange charity - you the unknowing recipient, I the reluctant gift. The noble benefactors?<LINE>Gone.|Kọshı níqdao gı. Ꝡa châ sá, nä pu chum joaı súq jí da. Zuo tú mea íme lä noazua ní rueqteamoe reocaı ꝡë ạınıe hóa súq róı hézo puq da. Jua ní soacokı. Ꝡa eq súq bójuq ꝡë bu dua hóa háo. Ꝡa eq jí dóte ꝡë bu shao hóa. Ꝡa dó ruaıcha nä? shıao hóa da.
+At the end of time none of this will matter I suppose, but it would be nice if you took another way out.<LINE>One free of... frolicking in my memory arrays. There is a perfectly good access shaft right here.|Râo ꝡä shaı duo dáq, nä shaı suao tú mea ní raı da. Hoaınu, aomoı jí ꝡä buıfa súq jí chôq sá tıeq jü... bu raq hóa lä choeqla já mé bâq moaqsıo jıbo da. Gı pósu belạdaojuq nıjuı da.
+For you though, there is another way. The old path. Go to the west past the Farm Arrays, and then down into the earth<LINE>where the land fissures, as deep as you can reach, where the ancients built their temples and danced their silly rituals.<LINE>The mark I gave you will let you through.|Súq bï, raı sá tıeq hezo da. Tíeq geo. Ꝡa fa súq hóre, cûaofa Mé Bâq Háqpaorıaq ba. Bîe ní, nä fa súq shóa, fâna sá guaqguq<LINE>ꝡë baı géomıqpoq chíjıo tî hóa rú ꝡë jemarao hó tî hóa ba. Ꝡa shoe láı ꝡë do jí súq hóa ꝡä nıefa súq ké.
+The good news first. In a way, I am what you are searching for. Me and my kind have as our<LINE>purpose to solve that very oscillating claustrophobia in the chests of you and countless others.<LINE>A strange charity - you the unknowing recipient, I the reluctant gift. The noble benefactors?<LINE>Gone.|Kọshı níqdao gı. Ꝡa châ sá, nä pu chum joaı súq jí da. Zuo tú mea íme lä noazua ní rueqteamoe reocaı ꝡë ạınıe hóa súq róı hézo puq da. Jua ní soacokı. Ꝡa eq súq bójuq ꝡë bu dua hóa háo. Ꝡa eq jí dóte ꝡë bu shao hóa. Ꝡa dó ruaıcha nä shıao hóa da.
 You must be very brave to have made it all the way here. But I'm sorry to say your journey here is in vain.|You must be very brave to have made it all the way here. But I'm sorry to say your journey here is in vain.
 It is good to have someone to talk to after all this time!<LINE>The scavengers aren't exactly good listeners. They do bring me things though, occasionally...|It is good to have someone to talk to after all this time!<LINE>The scavengers aren't exactly good listeners. They do bring me things though, occasionally...
-I'm still angry at you, but it is good to have someone to talk to after all this time.<LINE>The scavengers aren't exactly good listeners. They do bring me things though, occasionally...|I'm still angry at you, but it is good to have someone to talk to after all this time.<LINE>The scavengers aren't exactly good listeners. They do bring me things though, occasionally...
-Even the scavengers that come here from time to time leave with nothing. But... I have told you that already, haven't I?|Even the scavengers that come here from time to time leave with nothing. But... I have told you that already, haven't I?
-I do enjoy the company though. You're welcome to stay a while, quiet little thing.|I do enjoy the company though. You're welcome to stay a while, quiet little thing.
-I have had scavengers come by before. Scavengers!<LINE>And they left me alive!<LINE>But... I have told you that already, haven't I?|I have had scavengers come by before. Scavengers!<LINE>And they left me alive!<LINE>But... I have told you that already, haven't I?
-You must excuse me if I repeat myself. My memory is bad.<LINE>I used to have a pathetic five neurons... And then you ate one.<LINE>Maybe I've told you that before as well.|You must excuse me if I repeat myself. My memory is bad.<LINE>I used to have a pathetic five neurons... And then you ate one.<LINE>Maybe I've told you that before as well.
+I'm still angry at you, but it is good to have someone to talk to after all this time.<LINE>The scavengers aren't exactly good listeners. They do bring me things though, occasionally...|Hoaı feı jí êcı súq, kéo gı ꝡä deq keoı jí sá bîe ní nheoı da! Bu huosı báq muteojaı jí. Duqtuao do máq jí báq raı...
+Even the scavengers that come here from time to time leave with nothing. But... I have told you that already, haven't I?|Juq sía mútejoaı ꝡë choaqfa hóa jí, kéo... chı jí ꝡä haı kuq jí ní da.
+I do enjoy the company though. You're welcome to stay a while, quiet little thing.|Pua jí lä bu geqsıa já da. Choaqdıe jí ꝡä tıshue súq ní, hóı níaı nuı husho.
+I have had scavengers come by before. Scavengers!<LINE>And they left me alive!<LINE>But... I have told you that already, haven't I?|Luı choaqfa báq mutejoaı jí da. Múteojaı! Haosem máq jí da!
+You must excuse me if I repeat myself. My memory is bad.<LINE>I used to have a pathetic five neurons... And then you ate one.<LINE>Maybe I've told you that before as well.|Ruao súq jí lä chıo kuq jí ráı háo da. Pu bo jí móıhuatoaı nẹfe... shîu ꝡä chuq súq shí.
 Or actually I'm sure he would, but he has so many of these~<LINE>it doesn't do him any difference.<LINE>For me though, it does! Thank you, little creature!|Or actually I'm sure he would, but he has so many of these~<LINE>it doesn't do him any difference.<LINE>For me though, it does! Thank you, little creature!
 You come here, but you can't be respectful enough to listen to me.<LINE>Will you listen this time?|You come here, but you can't be respectful enough to listen to me.<LINE>Will you listen this time?
