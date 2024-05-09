@@ -6,16 +6,16 @@ objecttype-FlareBomb|Gíanoke
 objecttype-DataPearl|Líem
 objecttype-JellyFish|Kícıe
 objecttype-SlimeMold|Coepotısa
-objecttype-EggBugEgg|Kúbo Be-kubochome
-objecttype-NeedleEgg|Kúbo Be-rameqgusho
+objecttype-EggBugEgg|Kúbo Bẹkubochome
+objecttype-NeedleEgg|Kúbo Bẹrameqgusho
 creaturetype-Slugcat|Úıbokato
 creaturetype-Vulture|Búture
 creaturetype-CicadaA|Chakakicie
 creaturetype-CicadaB|Chakakicie
 creaturetype-JetFish|Sikicie
 creaturetype-DropBug|Shuachome
-Communications Array|Mé Bâq Be-deoq
-Stolen Enlightenment|Hóegaıla Bo-zanua
+Communications Array|Mé Bâq Bẹdeoq
+Stolen Enlightenment|Hóegaıla Bọzanua
 Path of the pacifist|Path of the pacifist
 The Saint-linebreaks|Búshuha
 switch_controls_jump|B Button
@@ -42,7 +42,7 @@ Rain timer tick-tock|Rain timer tick-tock
 Vulnerable jellyfish|Vulnerable jellyfish
 Unlock all campaigns|Unlock all campaigns
 More Slugcats Cheats|More Slugcats Cheats
-Exit to title screen|Exit to title screen
+Exit to title screen|Rıu lô ménhu
 Preparing for upload|Preparing for upload
 devtools-description|Enables the in-game Developer Tools which provide the tools necessary to edit maps and regions, and to help with the process of modding the game.<LINE><LINE>Press O in-game to enable/disable Dev Tools, and press H to bring up the main Dev Tools interface.
 ...leave me alone...|...leave me alone...
@@ -57,8 +57,8 @@ ludeo-description|If you can see this text, something has gone completely awry.
 remix_dlc_restart|Dâı ꝡä jea súq DLC, nä chıa nıqguo atıja súq lúcu zûo ꝡä koekıu tá.
 Expedition Leader|Expedition Leader
 creaturetype-Deer|Shuabosıu
-Looks to the Moon|Káqgai Lô Mıao
-Filtration System|Doeme Be-koaı
+Looks to the Moon|Káqgaı Lô Mıao
+Filtration System|Doeme Bẹkoaı
 The Dragon Slayer|Múaqtua Bâq Makoq
 Back to main menu|Rıu súq ménhu
 1 - SELECT PLAYER|1 - SELECT PLAYER
@@ -109,18 +109,18 @@ Thank you.|Kıjı.
 Issues found while loading mods!<LINE>Disabling problematic mods.<LINE>Press continue and then launch the game again.|Issues found while loading mods!<LINE>Disabling problematic mods.<LINE>Press continue and then launch the game again.
 ...you ate... me. Please go away. I won't speak... to you.<LINE>I... CAN'T speak to you... because... you ate...me...|...chuq súq... jí. Fajao súq ba. Bu shao keoı jí... súq.<LINE>Bu... JUOQ keoı jí súq... kûı... ꝡá... chuq súq jí...
 First you hurt me, then you come back to annoy me.<LINE>I wish I knew what was going on in that little head of yours.|Hıao súq jí. Bıe ní, ꝡä bufoaqca súq jí.<LINE>Shao dua jí ꝡä moı súq hí raı.
-It's a weapon made with fire powder. Did the scavengers give this to you?<LINE>Be very careful if you have to use it!|Eq ní báq hıaochuo ꝡë moaq hó púo be-loe. Ma do mútejoaı súq ní?<LINE>Chıaıtaosı súq râo ꝡä choq súq hóa ba!
+It's a weapon made with fire powder. Did the scavengers give this to you?<LINE>Be very careful if you have to use it!|Eq ní báq hıaochuo ꝡë moaq hó púo bẹloe. Ma do mútejoaı súq ní?<LINE>Chıaıtaosı súq râo ꝡä choq súq hóa ba!
 Desync detected between user mod data and game mod data!<LINE>Re-sycing data.<LINE>Press continue and then launch the game again.<LINE>Disabled mods:|Desync detected between user mod data and game mod data!<LINE>Re-sycing data.<LINE>Press continue and then launch the game again.<LINE>Disabled mods:
 No Ringing in Ears|No Ringing in Ears
 remix_game_version|The game's version has been updated. You will need to reapply your mods through the Remix menu.
 ROUNDS SESSION-ru2|ROUNDS SESSION
-objecttype-SeedCob|Nuı Be-rıoguı
+objecttype-SeedCob|Nuı Bẹrıoguı
 objecttype-Lantern|Kíoqgıo
 objecttype-FlyLure|Gúshonıpo
 creaturetype-Leech|Áchome
 creaturetype-Snail|Séqju
 creaturetype-Hazer|Níapuaoche
-Industrial Complex|Díurıaq Be-shuaqjıaq
+Industrial Complex|Chéıcuoriaq Bẹshuaqjıaq
 Scavenger Merchant|Mútejoaı Teqdo
 Path of aggression|Path of aggression
 Catch and eat them|Jıaıtaı ru chuq súq nhána ba
@@ -155,12 +155,12 @@ backup_restore_success|The save data from {X} has been restored.
 backup_info_disclaimer|(Data shown here is based on your currently enabled mods.<LINE>There may exist additional data here from mods that are currently disabled)
 A final charitable act|A final charitable act
 Path of self-sacrifice|Path of self-sacrifice
-objecttype-VultureMask|Jóqtıe Be-buture
+objecttype-VultureMask|Jóqtıe Bẹbuture
 objecttype-DangleFruit|Zéo Mıo
-objecttype-KarmaFlower|Rúa Be-karama
+objecttype-KarmaFlower|Rúa Bẹkarama
 objecttype-BubbleGrass|Ríorua
 creaturetype-RedLizard|Késı Kıa
-creaturetype-PoleMimic|Áıkopı Be-beaq
+creaturetype-PoleMimic|Áıkopı Bẹbeaq
 creaturetype-MirosBird|Míroshuao
 creaturetype-Centipede|Léoqhıesıu
 creaturetype-Centiwing|Shóaıhıesıu
@@ -170,7 +170,7 @@ Stronger climbing grip|Stronger climbing grip
 Path of the vegetarian|Path of the vegetarian
 The Scholar-linebreaks|Chíeguaı
 The Journey-linebreaks|Fáse
-switch_tutorial_crouch|Tapa súq bé-GUQ zûo lä guqsheaq já
+switch_tutorial_crouch|Tapa súq bẹ́GUQ zûo lä guqsheaq já
 Tap to pick up objects|Tapa súq máq zûo lä juq já bâq raı
 Test your new controls|Test your new controls
 switch_controls_pickup|Y Button
@@ -207,7 +207,7 @@ Take what isn't yours|Juq súq bú suqbo
 Generating map images|Generating map images
 objecttype-SporePlant|Ápıbue
 objecttype-NSHSwarmer|Móıhuatoaı Rıq
-creaturetype-SeaLeech|Áchome Be-naomıq
+creaturetype-SeaLeech|Áchome Bẹnaomıq
 creaturetype-TubeWorm|Jíaınunuq
 creaturetype-Overseer|Káqsı
 Path of the carnivore|Path of the carnivore
@@ -245,7 +245,7 @@ backup_info_loading|Loading save slot information...
 backup_info_no_data|No story data exists in this save slot.
 backups_description|View, create, or restore from previously backed up save data.
 save_file_corrupted|An error has occurred attempting to read or initialize the save file.<LINE>In order to protect your save data, game launch has been halted. <LINE>Please contact Akupara Games Support with the following error code.<LINE><LINE>ERROR CODE: {ERROR}<LINE><LINE>Do you wish to retry loading the save file?
-objecttype-PuffBall|Ríokıoq Be-poaı
+objecttype-PuffBall|Ríokıoq Bẹpoaı
 objecttype-WaterNut|Búlaboe
 objecttype-Mushroom|Chéalıao
 creaturetype-Spider|Mébosiu
@@ -258,7 +258,7 @@ Showing level names|Showing level names
 ps4_region_map_help|Press R1 to view regional map
 Successful cycles :|Successful cycles :
 Helped Five Pebbles|Helped Five Pebbles
-New arenas unlocked|New arenas unlocked
+New arenas unlocked|Sho tıoqrıa árena nıq
 mod_menu_apply_mods|Applying mod changes, please wait...
 mod_menu_enable_all|Enable all mods
 Creating index maps|Creating index maps
@@ -282,7 +282,7 @@ ps4_load_save_slot_failed|Save slot data is corrupted and will be deleted.
 Complete the Monk passage|Complete the Monk passage
 Find a way to communicate|Find a way to communicate
 creaturetype-YellowLizard|Késı Lue
-creaturetype-LanternMouse|Múse Be-kıoqgıo
+creaturetype-LanternMouse|Múse Bẹkıoqgıo
 creaturetype-RedCentipede|Léoqhıesıu Kıa
 One need not travel alone|One need not travel alone
 You are hungry, find food|Chuqkuaı súq da. Juq súq báq haq ba.
@@ -309,12 +309,12 @@ Complete the Saint passage|Complete the Saint passage
 Complete the Nomad passage|Complete the Nomad passage
 objecttype-SLOracleSwarmer|Móıhuatoaı
 objecttype-SSOracleSwarmer|Móıhuatoaı
-objecttype-OverseerCarcass|Káqhua Be-káqsı
+objecttype-OverseerCarcass|Káqhua Bẹkáqsı
 creaturetype-DaddyLongLegs|Néoq Shıaq Buaı
 creaturetype-TentaclePlant|Sáo'alaı Moqsuta
 creaturetype-SpitterSpider|Áarane Cutao
 creaturetype-BigNeedleWorm|Rameqgusho
-Briefly tap DOWN to crouch|Tapa súq «GÓA» zûo lá-guqsheaq
+Briefly tap DOWN to crouch|Tapa súq «GÓA» zûo lạ́guqsheaq
 Double tap to switch hands|Guchıo tapa súq máq zûo ꝡä shocheo pó nhoka hézo
 Player <X> is in the game!|Player <X> is in the game!
 Remove level from playlist|Remove level from playlist
@@ -353,7 +353,7 @@ invert_x_description_ps|Invert horizontal axis for analog stick controls.
 invert_y_description_ps|Invert vertical axis for analog stick controls.
 Gamepad <X> (Not found)|Gamepad <X> (Not found)
 No rain timer exception|No rain timer exception
-Sandbox items unlocked:|Sandbox items unlocked:
+Sandbox items unlocked:|Sho tıoqrıa ráı bẹsandbox:
 ps4_save_progress_title|Rain World Progress {0}
 ps4_save_options_failed|Error saving options data.
 ps4_load_options_failed|Options save data is corrupted and will be deleted.
@@ -456,9 +456,9 @@ minutes|minutes
 No rain|No rain
 Survive|Survive
 Winner!|Winner!
-RESTART|NIQ-TAO
-PASSAGE|DAM-FASE
-Quits :|É-shaı :
+RESTART|NỊQTAO
+PASSAGE|DẠMFASE
+Quits :|Ẹ́shaı :
 Ranking|Ranking
 Profile|Profile
 In Game|In Game
@@ -517,7 +517,7 @@ You have delivered your most important message|You have delivered your most impo
 You completed every challenge laid before you.|You completed every challenge laid before you.
 Clear every milestone quest in Expedition Mode|Clear every milestone quest in Expedition Mode
 You are not the only lost soul in this world..|You are not the only lost soul in this world..
-Additional food (above four) is kept for later|He luoı, ꝡä chuq súq náko, báq shuese
+Additional food (above four) is kept for later|Bọmushuo háq ọıjo zûo pó bíe
 Grab your prey and hold the eat button to feed|Grab your prey and hold the eat button to feed
 MenuModList_ModButton_Disable_NonMouse_Console|Press CONFIRM to disable this content, press RIGHT BUTTON to return to the list
 MenuModList_ModButton_NonMouse_Display_Console|Press CONFIRM to display, press LEFT BUTTON to move to the toggle button for this content
@@ -538,8 +538,8 @@ ps4_load_save_slot_restore_corrupt|Save slot data was corrupted, but the most re
 Complete the Dragon Slayer passage|Complete the Dragon Slayer passage
 Something lurks in the darkness...|Something lurks in the darkness...
 Complete the game as The Artificer|Complete the game as The Artificer
-Five Pebbles (General Systems Bus)|Pıo Ne-fe (Mé Tûq Doeme)
-Pick up / Eat button interactions:|Chá po cíoq bela-Juq / Chuq:
+Five Pebbles (General Systems Bus)|Pıo Nẹfe (Mé Tûq Doeme)
+Pick up / Eat button interactions:|Chá po cíoq belạJuq / Chuq:
 Game Over - Press SPACE to restart|Game Over - Press SPACE to restart
 switch_controls_singlejoyconl_jump|Down Button
 switch_controls_singlejoyconr_jump|A Button
@@ -564,7 +564,7 @@ Workshop upload completed successfully!|Workshop upload completed successfully!
 ps4_load_expedition_restore_corrupt|Expedition core data was corrupted, but the most recent backup of the data was able to be restored.
 You return from scouting a new land|You return from scouting a new land
 Four Needles under Plentiful Leaves|Four Needles under Plentiful Leaves
-However, the game will not be saved|Kéo bu bo-shuotao lúcu da.
+However, the game will not be saved|Kéo bu bọshuotao lúcu da.
 PS4 Dualshock<LINE>Controller Setup|DUALSHOCK®4<LINE>Controller Setup
 Hold Pause Button or Escape to exit|Hold Pause Button or Escape to exit
 switch_controls_singlejoyconl_pause|- Button
@@ -649,7 +649,7 @@ Oh... I will take a look|Oh... kaqsı jí máq ba
 Invert X|Invert X
 Invert Y|Invert Y
 Champion|Champion
-NEW GAME|É-LUAQ NIQ
+NEW GAME|Ẹ́LUAQ NIQ
 THE MONK|MÓNACHU
 The Wall|Góeq
 The Monk|Mónachu
@@ -678,12 +678,12 @@ You are bringing a neuron. Is it to taunt me?|Juq súq sá moıhuatoaı. Ma hıa
 Your curiosity seems boundless, <PlayerName>.|Your curiosity seems boundless, <PlayerName>.
 A Helping Hand|A Helping Hand
 mod_menu_error|Mods failed to apply due to the following error:
-Garbage Wastes|Shéaguaq Be-mute
+Garbage Wastes|Shéaguaq Bẹmute
 Shaded Citadel|Dóaq Gıohıaq
-Chimney Canopy|Múaoguaq Be-goqbıu
+Chimney Canopy|Múaoguaq Bẹgoqbıu
 Unknown Region|Unknown Region
-Scavenger Toll|Teqtıeq Be-mutejoaı
-RESET PROGRESS|TUASIA NÎ E-TAICHU
+Scavenger Toll|Teqtıeq Bẹmutejoaı
+RESET PROGRESS|TUASIA NÎ ẸTAICHU
 Input Settings|Input Settings
 Pick-Up Button|Pick-Up Button
 ROUNDS SESSION|ROUNDS SESSION
@@ -699,7 +699,7 @@ Leaving again.|Nıqguo tıshaı.
 Within Time|Within Time
 The Pilgrim|Jémufa
 DELETE SAVE|TUASIA NÎ CHUKAO
-Sky Islands|Áomo Be-seoq
+Sky Islands|Áomo Bẹseoq
 Farm Arrays|Mé Bâq Haqpaorıaq
 The Scholar|Chíeguaı
 The Journey|Fáse
@@ -723,14 +723,14 @@ I...said...|Kuq... jí...
 Migration|Migration
 Messenger|Messenger
 The Cycle|Dáqfeme
-The Nomad|Bu-́tıshaı
+The Nomad|Bụ́tıshaı
 Outskirts|Réa
 Shoreline|Náomıqrea
 Underhang|Béaı guq
 The Saint|Búshuha
 Ascension|Ascension
 SAVE SLOT|CHÚKAO
-vibration|Tío-suaıfurı
+vibration|Tị́osuaıfurı
 Connected|Connected
 Wildlife:|Wildlife:
 Spear hit|Spear hit
@@ -746,7 +746,7 @@ Uploading|Uploading
 A neuron.|Móıhuatoaı.
 tormentor|noılıe
 An Old Friend|An Old Friend
-Memory Crypts|Téhujıo Be-moaqsıo
+Memory Crypts|Téhujıo Bẹmoaqsıo
 The Chieftain|Jóq
 Music volume:|Music volume:
 Sound Effects|Sound Effects
@@ -796,7 +796,7 @@ Press any button to continue|Press any button to continue
 A Bell, Eighteen Amber Beads|A Bell, Eighteen Amber Beads
 Two Sprouts, Twelve Brackets|Two Sprouts, Twelve Brackets
 The Dragon Slayer-linebreaks|The Dragon<LINE>Slayer
-Three is enough to hibernate|Dıam é-jo, ꝡä koanuo súq
+Three is enough to hibernate|Dıam ẹ́jo, ꝡä koanuo súq
 Rain is coming! Find shelter|Fı ruqshua ꝡo! Fa súq sá hıaocıa ba
 Score required to exit level|Score required to exit level
 Always allow players to exit|Always allow players to exit
@@ -813,7 +813,7 @@ Oh... Never mind, I suppose.|Oh... sıanha... seto.
 I will...not speak to you...|Bu... bu keoı jí súq...
 You completed every expedition laid before you.|You completed every expedition laid before you.
 Something lurks in a flourishing outcropping...|Something lurks in a flourishing outcropping...
-Additional food (above three) is kept for later|He luoı, ꝡä chuq súq náko, báq shuese
+Additional food (above three) is kept for later|Bọmushuo háq ọısaq zûo pó bíe
 Hold down to wipe your save slot and start over|Hold down to wipe your save slot and start over
 You are starving. Your game has not been saved.|You are starving. Your game has not been saved.
 Are you sure you want to disable this mechanic?|Are you sure you want to disable this mechanic?
@@ -859,7 +859,7 @@ I think the rain is approaching.|Chı jí ꝡä fı ruqshua da.
 ...leaving now? Don't... return.|...fajao súq? Bu tırıu ba.
 Complete the Survivor passage|Complete the Survivor passage
 Complete the Wanderer passage|Complete the Wanderer passage
-Five Pebbles (Memory Conflux)|Pıo Ne-fe (Jío Be-moaqsıo)
+Five Pebbles (Memory Conflux)|Pıo Nẹfe (Jío Bẹmoaqsıo)
 Hold to eat / swallow objects|Hupashue súq máq zûe lä chuq ra tuo já báq raı
 Configure controls for player|Configure controls for player
 Standard items spawn on level|Standard items spawn on level
@@ -887,7 +887,7 @@ Complete the Martyr passage|Complete the Martyr passage
 Complete the Mother passage|Complete the Mother passage
 objecttype-FirecrackerPlant|Sákuranoke
 creaturetype-SmallCentipede|Léoqhıesıu Nui
-Four is enough to hibernate|Dıam é-jo, ꝡä koanuo súq
+Four is enough to hibernate|Dıam ẹ́jo, ꝡä koanuo súq
 invert_x_description_switch|Invert horizontal axis for analog stick controls.
 invert_y_description_switch|Invert vertical axis for analog stick controls.
 Player <X> will use gamepad|Player <X> will use gamepad
@@ -1009,7 +1009,7 @@ It's a bit dusty, but I will do my best. Hold on...|It's a bit dusty, but I will
 Now if you'll let me, I will try to say this again.|Now if you'll let me, I will try to say this again.
 It's a rock. Thank you, I suppose, little creature.|Pıo ní da. Seto... kuaq kıe ka, hói nıaı nuı.
 objecttype-Rock|Pío
-Drainage System|Doeme Be-loaıbıu
+Drainage System|Doeme Bẹloaıbıu
 History lessons|History lessons
 Change language|Change language
 Bind <X> button|Bind <X> button
@@ -1035,10 +1035,10 @@ Mod's thumbnail image must be less than 1 MB in size.|Mod's thumbnail image must
 Your account is locked or has a community or VAC ban.|Your account is locked or has a community or VAC ban.
 The workshop service is unavailable. Try again later.|The workshop service is unavailable. Try again later.
 Yet another gift? You're quite curious, <PlayerName>!|Dóte nıq? Tuaobu daosı súq, hóı <PlayerName>!
-Restart game|Nıq-sho luaq
+Restart game|Nı̣qsho luaq
 THE SURVIVOR|MÍEFEA
 The Exterior|Píu
-Five Pebbles|Pıo Ne-fe
+Five Pebbles|Pıo Nẹfe
 Subterranean|Gúaqguq
 The Survivor|Míefea
 The Wanderer|Kóı
@@ -1046,8 +1046,8 @@ A New Friend|A New Friend
 You are full|Chuqmuo súq
 Leap the gap|Loma ba
 View credits|View credits
-Pause Button|Cío Be-lao
-Throw Button|Cíoq Be-hieq
+Pause Button|Cío Bẹlao
+Throw Button|Cíoq Bẹhieq
 Select level|Select level
 Low wildlife|Low wildlife
 Level Items:|Level Items:
@@ -1059,10 +1059,10 @@ Major Assist|Major Assist
 CLOSE MANUAL|CLOSE MANUAL
 rwremix-name|Rain World Remix
 ...please...|...shaı...
-A nimble omnivore, both predator and prey. Lost in a harsh and indifferent<LINE>land you must make your own way, with wit and caution as your greatest assets.|Eq súq tóbuchuq ꝡë juku ru bo-juku hóa da. Tıeqbıao súq tî ría chamtam<LINE>
+A nimble omnivore, both predator and prey. Lost in a harsh and indifferent<LINE>land you must make your own way, with wit and caution as your greatest assets.|Eq súq tóbuchuq ꝡë juku ru bọjuku hóa da. Tıeqbıao súq tî ría chamtam<LINE>
 Weak of body but strong of spirit. In tune with the mysteries of the world and<LINE>empathetic to its creatures, your journey will be a significantly more peaceful one.|Weak of body but strong of spirit. In tune with the mysteries of the world and<LINE>empathetic to its creatures, your journey will be a significantly more peaceful one.
 Strong and quick, with a fierce metabolism requiring a steady diet of meat. But the<LINE>stomach wont be your only concern, as the path of the hunter is one of extreme peril.|Strong and quick, with a fierce metabolism requiring a steady diet of meat. But the<LINE>stomach wont be your only concern, as the path of the hunter is one of extreme peril.
-Five Pebbles (Unfortunate Development)|Pıo Ne-fe (Túe Huıneq)
+Five Pebbles (Unfortunate Development)|Pıo Nẹfe (Túe Huıneq)
 Six Grains of Gravel, Mountains Abound|Six Grains of Gravel, Mountains Abound
 Jump and grab them. They're delicious!|Juq súq zéo. Noqgı máq!
 Takes input from any connected gamepad|Takes input from any connected device
@@ -1081,7 +1081,7 @@ I must ask you... Don't do that again.|Sue jí súq... lä bu nıqguo tao súq n
 Rain... You better go. I will be fine.|Shua... Fa súq sá hıocıa ba. Jıa okeı jí da.
 <CapPlayerName>... Please settle down.|<CapPlayerName>... shaı zuoı ba.
 Yes, there you go. This is ridiculous.|Ah. Noga. Juaıluaı ní.
-Five Pebbles (Recursive Transform Array)|Pıo Ne-fe (Mé Bâq Ceoqbeokea Tıeqreı)
+Five Pebbles (Recursive Transform Array)|Pıo Nẹfe (Mé Bâq Ceoqbeokea Tıeqreı)
 You need to eat meat to sustain yourself|You need to eat meat to sustain yourself
 Default singleplayer<LINE>keyboard setup|Default singleplayer<LINE>keyboard setup
 OpKeyBinder_ErrorConflictOtherModDefault|Conflicting default button with <ModID>
@@ -1099,7 +1099,7 @@ ConfigMenuTab_BackHoldButton_Desc|Return to main menu (without applying mods!)
 Passage progress without Survivor|Passage progress without Survivor
 I will not speak to you any more.|I will not speak to you any more.
 You encountered the echo of Droplets upon Five Large Droplets|You encountered the echo of Droplets upon Five Large Droplets
-Press while holding down direction (crouching) to drop object|Hupashue súq máq róı bé-GUQ, nä zuo hóa lä heaqshaı lá báq raı
+Press while holding down direction (crouching) to drop object|Hupashue súq máq róı bẹ́GUQ, nä zuo hóa lä heaqshaı lá báq raı
 You must activate this mod before attempting to configure it.|You must activate this mod before attempting to configure it.
 I won't tolerate this. Leave immediately and don't come back.|Bu loıfea jí ní da. Fajao súq ba. Bu rıofa súq ní.
 As you can see, I have nothing for you. Not even my memories.|Deq kaqgaı súq ꝡä bo jí sía ráı. Bu bo jí móaqshaı jıbo.
@@ -1123,7 +1123,7 @@ Prevents the chance of waking up early before the rain has stopped|Prevents the 
 <CapPlayerName>, if you do that, I will not speak to you any more.|Hóı <CapPlayerName>, âo ꝡä tao súq ní, nä shaı keoı jí súq da.
 The highest enlightenment, achieved by the hardest path. A feat even the guardians must respect.|The highest enlightenment, achieved by the hardest path. A feat even the guardians must respect.
 Standard Remix settings. Many mechanical tweaks that may mix up the way the game is experienced.|Standard Remix settings. Many mechanical tweaks that may mix up the way the game is experienced.
-When crouching, hold the JUMP button without giving any other input|Râo guqsheaq súq, nä hupashue súq cíoq be-HIEQTAQ.
+When crouching, hold the JUMP button without giving any other input|Râo guqsheaq súq, nä hupashue súq cíoq bẹHIEQTAQ.
 Allow players to exit when rain is close or only one player is left|Allow players to exit when rain is close or only one player is left
 Reduces the overall speed of the game to assist with reaction times|Reduces the overall speed of the game to assist with reaction times
 (Normally requires finding Blue unlock tokens in the campaign maps)|(Normally requires finding Blue unlock tokens in the campaign maps)
@@ -1206,9 +1206,9 @@ The maximum number of subsequent explosion actions Artificer can perform before 
 Limit exceeded. You may need to reduce the filesize or remove prior workshop content.|Limit exceeded. You may need to reduce the filesize or remove prior workshop content.
 A little animal, on the floor of my chamber. I think I know what you are looking for.|Tı níaı nuı déaq po góa jıbo. Chı jí ꝡä dua jí ꝡä shao súq hí raı.
 Really exit? Note that quitting after 30 seconds into a cycle counts as a loss.|Really exit? Note that quitting after 30 seconds into a cycle counts as a loss.
-You get these at Five Pebbles'?<LINE>Thank you so much. I'm sure he won't mind.|Ma caqbo ní mí Pıo Ne-fe?<LINE>Kuaq jaq kıe ka. Zoaıcıa jí ꝡä suaojıe nháo ní.
+You get these at Five Pebbles'?<LINE>Thank you so much. I'm sure he won't mind.|Ma caqbo ní mí Pıo Nẹfe?<LINE>Kuaq jaq kıe ka. Zoaıcıa jí ꝡä suaojıe nháo ní.
 Create custom scenarios using levels, items and creatures<LINE>that have been unlocked in the single player campaigns.<LINE>Defeating creatures or other actions can be set to award points,<LINE>but Sandbox is mostly about customization and fun!|Create custom scenarios using levels, items and creatures<LINE>that have been unlocked in the story campaigns.<LINE>Defeating creatures or other actions can be set to award points,<LINE>but Sandbox is mostly about customization and fun!
-For you though, there is another way. The old path. Go to the west past the Farm Arrays, and then down into the earth<LINE>where the land fissures, as deep as you can reach, where the ancients built their temples and danced their silly rituals.|For you though, there is another way. The old path. Go to the west past the Farm Arrays, and then down into the earth<LINE>where the land fissures, as deep as you can reach, where the ancients built their temples and danced their silly rituals.
+For you though, there is another way. The old path. Go to the west past the Farm Arrays, and then down into the earth<LINE>where the land fissures, as deep as you can reach, where the ancients built their temples and danced their silly rituals.|Súq bï, raı sá tıeq hezo da. Tíeq geo. Ꝡa fa súq hóre, cûaofa Mé Bâq Háqpaorıaq ba.
 Compete in a battle against each other and the elements.<LINE>In this mode points are awarded for food items consumed,<LINE>with surviving players always ranking above dead players.<LINE>New levels, items and creatures can be unlocked in the<LINE>single player campaigns.|Compete in a battle against each other and the elements.<LINE>In this mode points are awarded for food items consumed,<LINE>with surviving players always ranking above dead players.<LINE>New levels, items and creatures can be unlocked in the<LINE>story campaigns.
 No items except what you place in the editor|No items except what you place in the editor
 Allow players above a specific score to exit|Allow players above a specific score to exit
@@ -1284,10 +1284,10 @@ If enabled, scavenger corpses in Artificer's campaign don't lose karma after eac
 (Normally requires delivering pearls and finding broadcast tokens in the campaign maps)|(Normally requires delivering pearls and finding broadcast tokens in the campaign maps)
 Know that this does not make you special - every living thing shares that same frustration.<LINE>From the microbes in the processing strata to me, who am, if you excuse me, godlike in comparison.|Dua súq ꝡä bu ꝡä leı súq kûı ní ba - sıu súq tú mıe kûı ní doq-buaqfeı da.<LINE>Juqca ní tú mıe da. Juqca hú júaq jí, jü, kïo ruao súq jí lä chuado já áq ní ba kı, sıujıao hóa da.
 Look at me. The only thing I have to offer is my words.<LINE>If you come here, I must assume you want me to speak? So then would you PLEASE listen?<LINE>If not, you are welcome to leave me alone.|Look at me. The only thing I have to offer is my words.<LINE>If you come here, I must assume you want me to speak? So then would you PLEASE listen?<LINE>If not, you are welcome to leave me alone.
-The bad news is that no definitive solution has been found. And every moment the equipment erodes to a new state of decay.<LINE>I can't help you collectively, or individually. I can't even help myself.|The bad news is that no definitive solution has been found. And every moment the equipment erodes to a new state of decay.<LINE>I can't help you collectively, or individually. I can't even help myself.
+The bad news is that no definitive solution has been found. And every moment the equipment erodes to a new state of decay.<LINE>I can't help you collectively, or individually. I can't even help myself.|Níqdao huı bï dua sía nóaboq da. Chumbọnuagoaı kéa ımebo, shô hạhuı da. Bu deq soa jí súq rú chéme suqbo da. Bu deq soa jí júaq áq.
 At the end of time none of this will matter I suppose, but it would be nice if you took another way out.<LINE>One free of... frolicking in my memory arrays. There is a perfectly good access shaft right here.|At the end of time none of this will matter I suppose, but it would be nice if you took another way out.<LINE>One free of... frolicking in my memory arrays. There is a perfectly good access shaft right here.
-For you though, there is another way. The old path. Go to the west past the Farm Arrays, and then down into the earth<LINE>where the land fissures, as deep as you can reach, where the ancients built their temples and danced their silly rituals.<LINE>The mark I gave you will let you through.|For you though, there is another way. The old path. Go to the west past the Farm Arrays, and then down into the earth<LINE>where the land fissures, as deep as you can reach, where the ancients built their temples and danced their silly rituals.<LINE>The mark I gave you will let you through.
-The good news first. In a way, I am what you are searching for. Me and my kind have as our<LINE>purpose to solve that very oscillating claustrophobia in the chests of you and countless others.<LINE>A strange charity - you the unknowing recipient, I the reluctant gift. The noble benefactors?<LINE>Gone.|The good news first. In a way, I am what you are searching for. Me and my kind have as our<LINE>purpose to solve that very oscillating claustrophobia in the chests of you and countless others.<LINE>A strange charity - you the unknowing recipient, I the reluctant gift. The noble benefactors?<LINE>Gone.
+For you though, there is another way. The old path. Go to the west past the Farm Arrays, and then down into the earth<LINE>where the land fissures, as deep as you can reach, where the ancients built their temples and danced their silly rituals.<LINE>The mark I gave you will let you through.|Súq bï, raı sá tıeq hezo da. Fa súq hóre, cûaofa Mé Bâq Haqpaorıaq
+The good news first. In a way, I am what you are searching for. Me and my kind have as our<LINE>purpose to solve that very oscillating claustrophobia in the chests of you and countless others.<LINE>A strange charity - you the unknowing recipient, I the reluctant gift. The noble benefactors?<LINE>Gone.|Kọshı níqdao gı. Ꝡa châ sá, nä pu chum joaı súq jí da. Zuo tú mea íme lä noazua ní rueqteamoe reocaı ꝡë ạınıe hóa súq róı hézo puq da. Jua ní soacokı. Ꝡa eq súq bójuq ꝡë bu dua hóa háo. Ꝡa eq jí dóte ꝡë bu shao hóa. Ꝡa dó ruaıcha nä? shıao hóa da.
 You must be very brave to have made it all the way here. But I'm sorry to say your journey here is in vain.|You must be very brave to have made it all the way here. But I'm sorry to say your journey here is in vain.
 It is good to have someone to talk to after all this time!<LINE>The scavengers aren't exactly good listeners. They do bring me things though, occasionally...|It is good to have someone to talk to after all this time!<LINE>The scavengers aren't exactly good listeners. They do bring me things though, occasionally...
 I'm still angry at you, but it is good to have someone to talk to after all this time.<LINE>The scavengers aren't exactly good listeners. They do bring me things though, occasionally...|I'm still angry at you, but it is good to have someone to talk to after all this time.<LINE>The scavengers aren't exactly good listeners. They do bring me things though, occasionally...
