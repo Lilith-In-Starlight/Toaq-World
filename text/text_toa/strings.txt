@@ -18,7 +18,7 @@ Communications Array|Mé Bâq Bẹdeoq
 Stolen Enlightenment|Hóegaıla Bọzanua
 Path of the pacifist|Path of the pacifist
 The Saint-linebreaks|Búshuha
-switch_controls_jump|B Button
+switch_controls_jump|Cíoq mı̣ B
 Gametype description|Gametype description
 Play each level once|Play each level once
 Normal Rain World AI|Normal Rain World AI
@@ -95,7 +95,7 @@ PORTUGUESE|PUTUGAOZU
 TEST INPUT|TEST INPUT
 Left Stick|Left Stick
 Hold Space|Hupashue lô Shealaıcıoq
-Map Button|Map Button
+Map Button|Cíoq po Gúaqfuaq
 Free food!|Free food!
 Loading...|Laotaq...
 CROSS-SAVE|CROSS-SAVE
@@ -173,7 +173,7 @@ The Journey-linebreaks|Fáse
 switch_tutorial_crouch|Tapa súq bẹ́GUQ zûo lä guqsheaq já
 Tap to pick up objects|Tapa súq máq zûo lä juq já bâq raı
 Test your new controls|Test your new controls
-switch_controls_pickup|Y Button
+switch_controls_pickup|Cíoq Mı̣ Y
 switch_region_map_help|Press the R Button to view regional map
 Sandbox item unlocked:|Sandbox item unlocked:
 ps4_save_options_title|Rain World Options
@@ -216,8 +216,8 @@ The Outlaw-linebreaks|Júaocuq
 The Friend-linebreaks|Pái
 Sound effects volume:|Sound effects volume:
 XBox Controller Setup|XBox Controller Setup
-switch_controls_pause|+ Button
-switch_controls_throw|A Button
+switch_controls_pause|Cíoq mı̣ +
+switch_controls_throw|Cíoq mı A
 Add level to playlist|Add level to playlist
 switch_update_players|Update players
 Play each level twice|Play each level twice
@@ -253,7 +253,7 @@ creaturetype-BigEel|Jémununuq
 creaturetype-EggBug|Kúbochome
 The Monk-linebreaks|Mónachu
 Speedrun Validation|Speedrun Validation
-switch_controls_map|R Button
+switch_controls_map|Cíoq mı R
 Showing level names|Showing level names
 ps4_region_map_help|Press R1 to view regional map
 Successful cycles :|Successful cycles :
@@ -408,8 +408,8 @@ GERMAN|DÓICHEZU
 KOREAN|KÓREAZU
 TOAQ|TÓAQZU
 Player|Player
-Square|Square button
-Circle|Circle button
+Square|Cíoq mı Jojıeq
+Circle|Cíoq mı Sona
 Arrows|Dúolaı
 Paused|Chum lao
 minute|minute
@@ -481,17 +481,17 @@ Music|Gíaq
 INPUT|INPUT
 Pause|Lao
 Throw|Hıao
-Right|Right
-Cross|Cross button
-Space|Space
-Shift|Shift
+Right|Síaq
+Cross|Cíoq mı Chıeqteı
+Space|Shéalaı
+Shift|Shıfo
 PLAY!|LUAQ!
 Play!|Luaq!
 ERROR|ERROR
 SCORE|SCORE
 ROUND|ROUND
-APPLY|APPLY
-Other|Other
+APPLY|TOI
+Other|Hézo
 Remix|Remix
 ...me|...jí
 Oh...|Oh...
@@ -539,11 +539,11 @@ Complete the Dragon Slayer passage|Complete the Dragon Slayer passage
 Something lurks in the darkness...|Something lurks in the darkness...
 Complete the game as The Artificer|Complete the game as The Artificer
 Five Pebbles (General Systems Bus)|Pıo Nẹfe (Mé Tûq Doeme)
-Pick up / Eat button interactions:|Chá po cíoq belạJuq / Chuq:
+Pick up / Eat button interactions:|Chá po cíoq pó Lạjuq / Lạchuq:
 Game Over - Press SPACE to restart|Game Over - Press SPACE to restart
-switch_controls_singlejoyconl_jump|Down Button
-switch_controls_singlejoyconr_jump|A Button
-JUMP/THROW buttons - Switch layers|JUMP/THROW buttons - Switch layers
+switch_controls_singlejoyconl_jump|Cíoq mı Gúq
+switch_controls_singlejoyconr_jump|Cíoq mı A
+JUMP/THROW buttons - Switch layers|Cíoq po lạHIEQTAQ rú lạHIEQ - Shocheo lô Néopaq
 ps4_save_options_failed_free_space|Error saving options data. Not enough free space. Try again?
 ConfigContainer_AlertPasteCosmetic|Pasted <Text> from clipboard
 MenuModList_ModButton_Enable_Mouse|Enable <Mod>
@@ -567,10 +567,10 @@ Four Needles under Plentiful Leaves|Four Needles under Plentiful Leaves
 However, the game will not be saved|Kéo bu bọshuotao lúcu da.
 PS4 Dualshock<LINE>Controller Setup|DUALSHOCK®4<LINE>Controller Setup
 Hold Pause Button or Escape to exit|Hold Pause Button or Escape to exit
-switch_controls_singlejoyconl_pause|- Button
-switch_controls_singlejoyconl_throw|Right Button
-switch_controls_singlejoyconr_pause|+ Button
-switch_controls_singlejoyconr_throw|X Button
+switch_controls_singlejoyconl_pause|Cíoq mı -
+switch_controls_singlejoyconl_throw|Cíoq mı Síaq
+switch_controls_singlejoyconr_pause|Cíoq mı +
+switch_controls_singlejoyconr_throw|Cíoq mı X
 Press to add Player <X> to the game|Press to add Player <X> to the game
 ps4_save_progress_failed_free_space|Error saving progress data. Not enough free space. Try again?
 USE UP + DOWN TO ADJUST SCREEN SIZE|USE UP + DOWN TO ADJUST SCREEN SIZE
@@ -622,7 +622,7 @@ switch_pause_help_pickup|Press to pick up objects
 Change screen resolution|Change screen resolution
 Arena mode music volume:|Arena mode music volume:
 switch_controls_movement|Left Stick
-switch_controls_hold_map|Hold R Button
+switch_controls_hold_map|Hupashue lô Cíoq mı R
 Showing level thumbnails|Showing level thumbnails
 ps4_fast_travel_map_help|Press R1 to select the shelter you wish to continue from
 ps4_save_progress_failed|Error saving progress data.
@@ -685,7 +685,7 @@ Unknown Region|Unknown Region
 Scavenger Toll|Teqtıeq Bẹmutejoaı
 RESET PROGRESS|TUASIA NÎ ẸTAICHU
 Input Settings|Input Settings
-Pick-Up Button|Pick-Up Button
+Pick-Up Button|Cíoq po Lạjuq
 ROUNDS SESSION|ROUNDS SESSION
 RESUME SESSION|RESUME SESSION
 Clear playlist|Clear playlist
@@ -704,7 +704,7 @@ Farm Arrays|Mé Bâq Haqpaorıaq
 The Scholar|Chíeguaı
 The Journey|Fáse
 Arena Music|Gíaq po Árena
-Jump Button|Jump Button
+Jump Button|Cíoq po Lạhıeqtaq
 NEW SESSION|NEW SESSION
 Spears Hit:|Spears Hit:
 Rain Timer:|Rain Timer:
@@ -822,14 +822,14 @@ You're leaving yet again. This time, stay away.|Tıcuq súq nîqguo da. Bu rıu 
 Listened to the conflation of echoes|Listened to the conflation of echoes
 Nineteen Spades, Endless Reflections|Nineteen Spades, Endless Reflections
 Game Over - Press OPTIONS to restart|Game Over - Press OPTIONS BUTTON to restart
-switch_controls_singlejoyconl_pickup|Left Button
-switch_controls_singlejoyconr_pickup|B Button
+switch_controls_singlejoyconl_pickup|Cíoq mı Lıo
+switch_controls_singlejoyconr_pickup|Cíoq mı B
 Creatures are vicious and aggressive|Creatures are vicious and aggressive
 switch_single_joycon_region_map_help|Press the SR Button to view regional map
 JUMP/THROW buttons - Switch layers_2|cross button/circle button - Switch layers
-JUMP/THROW buttons - Switch layers_3|B Button/A Button - Switch layers
-JUMP/THROW buttons - Switch layers_4|Down Button/Right Button - Switch layers
-JUMP/THROW buttons - Switch layers_5|A Button/X Button - Switch layers
+JUMP/THROW buttons - Switch layers_3|Cíoq mı B/mı A - Switch layers
+JUMP/THROW buttons - Switch layers_4|Cíoq mı Goa/mı Sıaq - Switch layers
+JUMP/THROW buttons - Switch layers_5|Cíoq mı A/mı X - Switch layers
 Title is offline or is disconnected.|Title is offline or is disconnected.
 OpKeyBinder_NonMouseJoystickBindTuto|Press a button to bind (PAUSE to unbind, START to set controller number)
 ConfigContainer_AlertCopyNoncosmetic|Copied <Text> to clipboard from <ObjectName>
@@ -840,12 +840,12 @@ Yes, you're welcome to have it back.|Nho, deq juq súq ní.
 Oh, leaving. Please don't come back.|Oh, cuq súq. Ꝡa bu rıu súq ba.
 Followed your parental instincts|Followed your parental instincts
 Player <X> will use the keyboard|Player <X> will use the keyboard
-switch_controls_singlejoycon_map|SR Button
+switch_controls_singlejoycon_map|Cíoq mı SR
 Playing levels in selected order|Playing levels in selected order
 OpKeyBinder_ErrorConflictVanilla|Conflicting button with vanilla control options
 OpKeyBinder_ErrorConflictCurrMod|[<ConflictButton>] button is already in use
 OpColorPicker_NonMouseModeSelect|Press CONFIRM to select mode
-ConfigMenuTab_RevertButton_Label|BACK
+ConfigMenuTab_RevertButton_Label|RIU
 Scavenger corpses have max karma|Scavenger corpses have max karma
 Unlock Developer Commentary mode|Unlock Developer Commentary mode
 Please... thiss all I have left.|Please... this is all I have left.
@@ -920,7 +920,7 @@ Take the longer path to enlightenment|Take the longer path to enlightenment
 A significant gain, but at what cost?|A significant gain, but at what cost?
 Game Over - Press + Button to restart|Game Over - Press + Button to restart
 Game Over - Press - Button to restart|Game Over - Press - Button to restart
-switch_controls_singlejoycon_hold_map|Hold SR Button
+switch_controls_singlejoycon_hold_map|Pạhupashue cíoq mı SR
 Hold and drag to adjust score awarded|Hold and drag to adjust score awarded
 JUMP/THROW buttons - Switch layers_2a|cross button/circle button - Switch layers<LINE>square button - Select shelter
 JUMP/THROW buttons - Switch layers_3a|B Button/A Button - Switch layers<LINE>Y Button - Select shelter
@@ -1047,7 +1047,7 @@ You are full|Chuqmuo súq
 Leap the gap|Loma ba
 View credits|View credits
 Pause Button|Cío Bẹlao
-Throw Button|Cíoq Bẹhieq
+Throw Button|Cíoq pó Lạhieq
 Select level|Select level
 Low wildlife|Low wildlife
 Level Items:|Level Items:
@@ -1123,7 +1123,7 @@ Prevents the chance of waking up early before the rain has stopped|Prevents the 
 <CapPlayerName>, if you do that, I will not speak to you any more.|Hóı <CapPlayerName>, âo ꝡä tao súq ní, nä shaı keoı jí súq da.
 The highest enlightenment, achieved by the hardest path. A feat even the guardians must respect.|The highest enlightenment, achieved by the hardest path. A feat even the guardians must respect.
 Standard Remix settings. Many mechanical tweaks that may mix up the way the game is experienced.|Standard Remix settings. Many mechanical tweaks that may mix up the way the game is experienced.
-When crouching, hold the JUMP button without giving any other input|Râo guqsheaq súq, nä hupashue súq cíoq bẹHIEQTAQ.
+When crouching, hold the JUMP button without giving any other input|Râo guqsheaq súq, nä hupashue súq cíoq pó lạHIEQTAQ.
 Allow players to exit when rain is close or only one player is left|Allow players to exit when rain is close or only one player is left
 Reduces the overall speed of the game to assist with reaction times|Reduces the overall speed of the game to assist with reaction times
 (Normally requires finding Blue unlock tokens in the campaign maps)|(Normally requires finding Blue unlock tokens in the campaign maps)
